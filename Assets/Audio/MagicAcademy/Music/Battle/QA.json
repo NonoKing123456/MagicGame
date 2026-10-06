@@ -1,0 +1,21 @@
+{
+  "downloaded_audio_files": 6,
+  "decoded_audio_files": 6,
+  "existing_audio_preserved": true,
+  "authored_loop_files_copied_byte_for_byte": 3,
+  "loop_seam_subjectively_reviewed": false,
+  "unity_play_mode_tested": false,
+  "preview_links_valid": 6,
+  "new_catalog_hashes_match": true,
+  "direct_ogg_copies_verified": 5,
+  "all_audio_finite_and_non_silent": true,
+  "source_sample_peak_dbfs": [
+    -6.367,
+    0.133,
+    -0.912,
+    -0.355,
+    -9.366,
+    -10.02
+  ],
+  "preview_volume_peak_below_full_scale": true
+}

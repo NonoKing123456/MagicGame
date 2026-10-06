@@ -1,0 +1,785 @@
+{
+  "frames": 36,
+  "fps": 12,
+  "duration": 3.0,
+  "loop": false,
+  "canvas": [
+    1024,
+    1024
+  ],
+  "groundAnchorTopLeft": [
+    512.0,
+    760
+  ],
+  "unityPivot": [
+    0.5,
+    0.4248046875
+  ],
+  "pixelsPerUnit": 256,
+  "constantScale": 1.0052631578947369,
+  "direction": "right",
+  "lastPose": "gray rubble pile",
+  "registration": "Fixed original statue anchor; preserve falling fragment positions",
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Characters\\Gargoyle\\Death.anim",
+  "frameFolder": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Gargoyle_Collapse_v1\\Frames",
+  "sourceVideo": "D:\\WorkSpace\\Arts\\Grok_Gargoyle_Collapse_v2\\Gargoyle_Collapse_720p_3s.mp4",
+  "UnityEditorVerified": false,
+  "records": [
+    {
+      "file": "Gargoyle_Collapse_01.png",
+      "sourceFrameZeroBased": 0,
+      "timeSeconds": 0.0,
+      "sourceBoundsAlpha128": [
+        290,
+        332,
+        670,
+        672
+      ],
+      "outputBoundsAlpha128": [
+        321,
+        418,
+        703,
+        760
+      ],
+      "translation": [
+        317,
+        414
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_02.png",
+      "sourceFrameZeroBased": 2,
+      "timeSeconds": 0.08333333333333333,
+      "sourceBoundsAlpha128": [
+        290,
+        332,
+        670,
+        672
+      ],
+      "outputBoundsAlpha128": [
+        321,
+        418,
+        703,
+        760
+      ],
+      "translation": [
+        317,
+        414
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_03.png",
+      "sourceFrameZeroBased": 4,
+      "timeSeconds": 0.16666666666666666,
+      "sourceBoundsAlpha128": [
+        290,
+        332,
+        670,
+        672
+      ],
+      "outputBoundsAlpha128": [
+        321,
+        418,
+        703,
+        760
+      ],
+      "translation": [
+        317,
+        414
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_04.png",
+      "sourceFrameZeroBased": 6,
+      "timeSeconds": 0.25,
+      "sourceBoundsAlpha128": [
+        270,
+        300,
+        724,
+        708
+      ],
+      "outputBoundsAlpha128": [
+        301,
+        386,
+        757,
+        796
+      ],
+      "translation": [
+        297,
+        382
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_05.png",
+      "sourceFrameZeroBased": 8,
+      "timeSeconds": 0.3333333333333333,
+      "sourceBoundsAlpha128": [
+        208,
+        220,
+        777,
+        804
+      ],
+      "outputBoundsAlpha128": [
+        239,
+        306,
+        811,
+        893
+      ],
+      "translation": [
+        235,
+        302
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_06.png",
+      "sourceFrameZeroBased": 10,
+      "timeSeconds": 0.4166666666666667,
+      "sourceBoundsAlpha128": [
+        199,
+        202,
+        805,
+        800
+      ],
+      "outputBoundsAlpha128": [
+        230,
+        288,
+        839,
+        890
+      ],
+      "translation": [
+        226,
+        284
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_07.png",
+      "sourceFrameZeroBased": 12,
+      "timeSeconds": 0.5,
+      "sourceBoundsAlpha128": [
+        186,
+        170,
+        838,
+        781
+      ],
+      "outputBoundsAlpha128": [
+        216,
+        255,
+        871,
+        869
+      ],
+      "translation": [
+        212,
+        251
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_08.png",
+      "sourceFrameZeroBased": 14,
+      "timeSeconds": 0.5833333333333334,
+      "sourceBoundsAlpha128": [
+        175,
+        128,
+        864,
+        772
+      ],
+      "outputBoundsAlpha128": [
+        205,
+        213,
+        898,
+        860
+      ],
+      "translation": [
+        201,
+        209
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_09.png",
+      "sourceFrameZeroBased": 16,
+      "timeSeconds": 0.6666666666666666,
+      "sourceBoundsAlpha128": [
+        164,
+        89,
+        874,
+        780
+      ],
+      "outputBoundsAlpha128": [
+        194,
+        174,
+        908,
+        869
+      ],
+      "translation": [
+        190,
+        170
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_10.png",
+      "sourceFrameZeroBased": 18,
+      "timeSeconds": 0.75,
+      "sourceBoundsAlpha128": [
+        160,
+        81,
+        876,
+        782
+      ],
+      "outputBoundsAlpha128": [
+        190,
+        166,
+        910,
+        871
+      ],
+      "translation": [
+        186,
+        162
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_11.png",
+      "sourceFrameZeroBased": 20,
+      "timeSeconds": 0.8333333333333334,
+      "sourceBoundsAlpha128": [
+        200,
+        98,
+        836,
+        752
+      ],
+      "outputBoundsAlpha128": [
+        231,
+        183,
+        870,
+        840
+      ],
+      "translation": [
+        227,
+        179
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_12.png",
+      "sourceFrameZeroBased": 22,
+      "timeSeconds": 0.9166666666666666,
+      "sourceBoundsAlpha128": [
+        232,
+        167,
+        760,
+        668
+      ],
+      "outputBoundsAlpha128": [
+        263,
+        252,
+        794,
+        756
+      ],
+      "translation": [
+        259,
+        248
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_13.png",
+      "sourceFrameZeroBased": 24,
+      "timeSeconds": 1.0,
+      "sourceBoundsAlpha128": [
+        226,
+        162,
+        764,
+        680
+      ],
+      "outputBoundsAlpha128": [
+        257,
+        247,
+        798,
+        768
+      ],
+      "translation": [
+        253,
+        243
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_14.png",
+      "sourceFrameZeroBased": 26,
+      "timeSeconds": 1.0833333333333333,
+      "sourceBoundsAlpha128": [
+        222,
+        158,
+        766,
+        738
+      ],
+      "outputBoundsAlpha128": [
+        253,
+        243,
+        800,
+        826
+      ],
+      "translation": [
+        249,
+        239
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_15.png",
+      "sourceFrameZeroBased": 28,
+      "timeSeconds": 1.1666666666666667,
+      "sourceBoundsAlpha128": [
+        218,
+        154,
+        774,
+        836
+      ],
+      "outputBoundsAlpha128": [
+        249,
+        239,
+        808,
+        925
+      ],
+      "translation": [
+        245,
+        235
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_16.png",
+      "sourceFrameZeroBased": 30,
+      "timeSeconds": 1.25,
+      "sourceBoundsAlpha128": [
+        217,
+        152,
+        776,
+        832
+      ],
+      "outputBoundsAlpha128": [
+        248,
+        237,
+        810,
+        921
+      ],
+      "translation": [
+        244,
+        233
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_17.png",
+      "sourceFrameZeroBased": 32,
+      "timeSeconds": 1.3333333333333333,
+      "sourceBoundsAlpha128": [
+        216,
+        152,
+        778,
+        830
+      ],
+      "outputBoundsAlpha128": [
+        247,
+        237,
+        812,
+        919
+      ],
+      "translation": [
+        243,
+        233
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_18.png",
+      "sourceFrameZeroBased": 34,
+      "timeSeconds": 1.4166666666666667,
+      "sourceBoundsAlpha128": [
+        218,
+        158,
+        778,
+        855
+      ],
+      "outputBoundsAlpha128": [
+        249,
+        243,
+        812,
+        944
+      ],
+      "translation": [
+        245,
+        239
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_19.png",
+      "sourceFrameZeroBased": 36,
+      "timeSeconds": 1.5,
+      "sourceBoundsAlpha128": [
+        220,
+        166,
+        786,
+        848
+      ],
+      "outputBoundsAlpha128": [
+        251,
+        251,
+        820,
+        937
+      ],
+      "translation": [
+        247,
+        247
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_20.png",
+      "sourceFrameZeroBased": 38,
+      "timeSeconds": 1.5833333333333333,
+      "sourceBoundsAlpha128": [
+        224,
+        184,
+        790,
+        858
+      ],
+      "outputBoundsAlpha128": [
+        255,
+        269,
+        824,
+        947
+      ],
+      "translation": [
+        251,
+        265
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_21.png",
+      "sourceFrameZeroBased": 40,
+      "timeSeconds": 1.6666666666666667,
+      "sourceBoundsAlpha128": [
+        214,
+        208,
+        795,
+        866
+      ],
+      "outputBoundsAlpha128": [
+        245,
+        294,
+        829,
+        956
+      ],
+      "translation": [
+        241,
+        290
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_22.png",
+      "sourceFrameZeroBased": 42,
+      "timeSeconds": 1.75,
+      "sourceBoundsAlpha128": [
+        202,
+        243,
+        804,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        233,
+        329,
+        838,
+        961
+      ],
+      "translation": [
+        229,
+        325
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_23.png",
+      "sourceFrameZeroBased": 44,
+      "timeSeconds": 1.8333333333333333,
+      "sourceBoundsAlpha128": [
+        185,
+        296,
+        812,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        215,
+        382,
+        845,
+        961
+      ],
+      "translation": [
+        211,
+        378
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_24.png",
+      "sourceFrameZeroBased": 46,
+      "timeSeconds": 1.9166666666666667,
+      "sourceBoundsAlpha128": [
+        162,
+        386,
+        826,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        192,
+        472,
+        860,
+        961
+      ],
+      "translation": [
+        188,
+        468
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_25.png",
+      "sourceFrameZeroBased": 48,
+      "timeSeconds": 2.0,
+      "sourceBoundsAlpha128": [
+        139,
+        490,
+        846,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        169,
+        577,
+        880,
+        961
+      ],
+      "translation": [
+        165,
+        573
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_26.png",
+      "sourceFrameZeroBased": 50,
+      "timeSeconds": 2.0833333333333335,
+      "sourceBoundsAlpha128": [
+        120,
+        578,
+        868,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        150,
+        665,
+        902,
+        961
+      ],
+      "translation": [
+        146,
+        661
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_27.png",
+      "sourceFrameZeroBased": 52,
+      "timeSeconds": 2.1666666666666665,
+      "sourceBoundsAlpha128": [
+        114,
+        578,
+        888,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        144,
+        665,
+        922,
+        961
+      ],
+      "translation": [
+        140,
+        661
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_28.png",
+      "sourceFrameZeroBased": 54,
+      "timeSeconds": 2.25,
+      "sourceBoundsAlpha128": [
+        113,
+        580,
+        899,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        143,
+        667,
+        933,
+        961
+      ],
+      "translation": [
+        139,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_29.png",
+      "sourceFrameZeroBased": 56,
+      "timeSeconds": 2.3333333333333335,
+      "sourceBoundsAlpha128": [
+        113,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        143,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        139,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_30.png",
+      "sourceFrameZeroBased": 58,
+      "timeSeconds": 2.4166666666666665,
+      "sourceBoundsAlpha128": [
+        112,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        142,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        138,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_31.png",
+      "sourceFrameZeroBased": 60,
+      "timeSeconds": 2.5,
+      "sourceBoundsAlpha128": [
+        112,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        142,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        138,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_32.png",
+      "sourceFrameZeroBased": 62,
+      "timeSeconds": 2.5833333333333335,
+      "sourceBoundsAlpha128": [
+        112,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        142,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        138,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_33.png",
+      "sourceFrameZeroBased": 64,
+      "timeSeconds": 2.6666666666666665,
+      "sourceBoundsAlpha128": [
+        112,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        142,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        138,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_34.png",
+      "sourceFrameZeroBased": 66,
+      "timeSeconds": 2.75,
+      "sourceBoundsAlpha128": [
+        113,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        143,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        139,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_35.png",
+      "sourceFrameZeroBased": 68,
+      "timeSeconds": 2.8333333333333335,
+      "sourceBoundsAlpha128": [
+        113,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        143,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        139,
+        663
+      ]
+    },
+    {
+      "file": "Gargoyle_Collapse_36.png",
+      "sourceFrameZeroBased": 70,
+      "timeSeconds": 2.9166666666666665,
+      "sourceBoundsAlpha128": [
+        112,
+        580,
+        900,
+        872
+      ],
+      "outputBoundsAlpha128": [
+        143,
+        667,
+        934,
+        961
+      ],
+      "translation": [
+        138,
+        663
+      ]
+    }
+  ]
+}

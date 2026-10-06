@@ -1,0 +1,137 @@
+{
+  "MagicBook": {
+    "canvas": [
+      512,
+      512
+    ],
+    "boundsAlpha128": [
+      86,
+      145,
+      426,
+      448
+    ],
+    "alpha": "RGBA transparent; antialiasing retained",
+    "bottomAnchorPx": 448,
+    "suggestedUnityPivot": [
+      0.5,
+      0.125
+    ],
+    "sourceBounds": [
+      110,
+      163,
+      1217,
+      1151
+    ],
+    "scale": 0.3071364046973803,
+    "fullyInside": true,
+    "visualQA": "PASS for static prototype"
+  },
+  "AlchemyCauldron": {
+    "canvas": [
+      512,
+      512
+    ],
+    "boundsAlpha128": [
+      86,
+      128,
+      426,
+      448
+    ],
+    "alpha": "RGBA transparent; antialiasing retained",
+    "bottomAnchorPx": 448,
+    "suggestedUnityPivot": [
+      0.5,
+      0.125
+    ],
+    "sourceBounds": [
+      166,
+      214,
+      1079,
+      1072
+    ],
+    "scale": 0.3723986856516977,
+    "fullyInside": true,
+    "visualQA": "PASS for static prototype"
+  },
+  "Gargoyle": {
+    "canvas": [
+      512,
+      512
+    ],
+    "boundsAlpha128": [
+      66,
+      108,
+      446,
+      448
+    ],
+    "alpha": "RGBA transparent; antialiasing retained",
+    "bottomAnchorPx": 448,
+    "suggestedUnityPivot": [
+      0.5,
+      0.125
+    ],
+    "sourceBounds": [
+      165,
+      249,
+      1104,
+      1087
+    ],
+    "scale": 0.40468583599574015,
+    "fullyInside": true,
+    "visualQA": "PASS for static prototype"
+  },
+  "Slime": {
+    "canvas": [
+      512,
+      512
+    ],
+    "boundsAlpha128": [
+      86,
+      217,
+      426,
+      448
+    ],
+    "alpha": "RGBA transparent; antialiasing retained",
+    "bottomAnchorPx": 448,
+    "suggestedUnityPivot": [
+      0.5,
+      0.125
+    ],
+    "sourceBounds": [
+      179,
+      371,
+      1077,
+      981
+    ],
+    "scale": 0.37861915367483295,
+    "fullyInside": true,
+    "visualQA": "PASS for static prototype"
+  },
+  "HelmetSlime": {
+    "canvas": [
+      512,
+      512
+    ],
+    "boundsAlpha128": [
+      86,
+      149,
+      426,
+      448
+    ],
+    "alpha": "RGBA transparent; antialiasing retained",
+    "bottomAnchorPx": 448,
+    "suggestedUnityPivot": [
+      0.5,
+      0.125
+    ],
+    "sourceBounds": [
+      205,
+      271,
+      1073,
+      1033
+    ],
+    "scale": 0.391705069124424,
+    "fullyInside": true,
+    "visualQA": "PASS for static prototype"
+  }
+}

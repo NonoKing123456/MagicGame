@@ -1,0 +1,1036 @@
+{
+  "frames": 48,
+  "fps": 12,
+  "duration": 4.0,
+  "loop": false,
+  "canvas": [
+    768,
+    768
+  ],
+  "groundAnchorTopLeft": [
+    384,
+    672
+  ],
+  "unityPivot": [
+    0.5,
+    0.125
+  ],
+  "pixelsPerUnit": 280,
+  "constantScale": 0.8333333333333334,
+  "direction": "left",
+  "lastPose": "visible purple puddle; closed facial curves remain",
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Death.anim",
+  "frameFolder": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames",
+  "sourceVideo": "D:\\WorkSpace\\Arts\\Grok_Slime_Death_Left_v1\\Slime_Death_Left_720p_4s.mp4",
+  "UnityEditorVerified": false,
+  "records": [
+    {
+      "file": "Slime_Death_Left_01.png",
+      "sourceFrameZeroBased": 0,
+      "timeSeconds": 0.0,
+      "sourceBoundsAlpha128": [
+        396,
+        417,
+        804,
+        694
+      ],
+      "outputBoundsAlpha128": [
+        213,
+        441,
+        554,
+        672
+      ],
+      "translation": [
+        210,
+        437
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_02.png",
+      "sourceFrameZeroBased": 2,
+      "timeSeconds": 0.08333333333333333,
+      "sourceBoundsAlpha128": [
+        396,
+        417,
+        804,
+        694
+      ],
+      "outputBoundsAlpha128": [
+        213,
+        441,
+        554,
+        672
+      ],
+      "translation": [
+        210,
+        437
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_03.png",
+      "sourceFrameZeroBased": 4,
+      "timeSeconds": 0.16666666666666666,
+      "sourceBoundsAlpha128": [
+        396,
+        417,
+        804,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        213,
+        442,
+        554,
+        672
+      ],
+      "translation": [
+        210,
+        438
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_04.png",
+      "sourceFrameZeroBased": 6,
+      "timeSeconds": 0.25,
+      "sourceBoundsAlpha128": [
+        396,
+        418,
+        804,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        213,
+        441,
+        554,
+        672
+      ],
+      "translation": [
+        210,
+        438
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_05.png",
+      "sourceFrameZeroBased": 8,
+      "timeSeconds": 0.3333333333333333,
+      "sourceBoundsAlpha128": [
+        391,
+        425,
+        810,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        209,
+        447,
+        559,
+        672
+      ],
+      "translation": [
+        206,
+        444
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_06.png",
+      "sourceFrameZeroBased": 10,
+      "timeSeconds": 0.4166666666666667,
+      "sourceBoundsAlpha128": [
+        372,
+        453,
+        831,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        193,
+        470,
+        576,
+        672
+      ],
+      "translation": [
+        190,
+        467
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_07.png",
+      "sourceFrameZeroBased": 12,
+      "timeSeconds": 0.5,
+      "sourceBoundsAlpha128": [
+        369,
+        461,
+        835,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        189,
+        476,
+        578,
+        672
+      ],
+      "translation": [
+        186,
+        473
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_08.png",
+      "sourceFrameZeroBased": 14,
+      "timeSeconds": 0.5833333333333334,
+      "sourceBoundsAlpha128": [
+        416,
+        384,
+        781,
+        696
+      ],
+      "outputBoundsAlpha128": [
+        231,
+        412,
+        536,
+        672
+      ],
+      "translation": [
+        228,
+        409
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_09.png",
+      "sourceFrameZeroBased": 16,
+      "timeSeconds": 0.6666666666666666,
+      "sourceBoundsAlpha128": [
+        426,
+        366,
+        769,
+        696
+      ],
+      "outputBoundsAlpha128": [
+        241,
+        397,
+        527,
+        672
+      ],
+      "translation": [
+        238,
+        394
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_10.png",
+      "sourceFrameZeroBased": 18,
+      "timeSeconds": 0.75,
+      "sourceBoundsAlpha128": [
+        420,
+        376,
+        775,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        236,
+        407,
+        532,
+        672
+      ],
+      "translation": [
+        233,
+        403
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_11.png",
+      "sourceFrameZeroBased": 20,
+      "timeSeconds": 0.8333333333333334,
+      "sourceBoundsAlpha128": [
+        412,
+        389,
+        784,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        229,
+        416,
+        540,
+        672
+      ],
+      "translation": [
+        226,
+        413
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_12.png",
+      "sourceFrameZeroBased": 22,
+      "timeSeconds": 0.9166666666666666,
+      "sourceBoundsAlpha128": [
+        402,
+        406,
+        795,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        220,
+        430,
+        548,
+        672
+      ],
+      "translation": [
+        217,
+        427
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_13.png",
+      "sourceFrameZeroBased": 24,
+      "timeSeconds": 1.0,
+      "sourceBoundsAlpha128": [
+        390,
+        425,
+        809,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        210,
+        446,
+        559,
+        672
+      ],
+      "translation": [
+        206,
+        443
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_14.png",
+      "sourceFrameZeroBased": 26,
+      "timeSeconds": 1.0833333333333333,
+      "sourceBoundsAlpha128": [
+        378,
+        447,
+        824,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        199,
+        465,
+        570,
+        672
+      ],
+      "translation": [
+        196,
+        462
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_15.png",
+      "sourceFrameZeroBased": 28,
+      "timeSeconds": 1.1666666666666667,
+      "sourceBoundsAlpha128": [
+        370,
+        459,
+        834,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        191,
+        475,
+        577,
+        672
+      ],
+      "translation": [
+        188,
+        472
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_16.png",
+      "sourceFrameZeroBased": 30,
+      "timeSeconds": 1.25,
+      "sourceBoundsAlpha128": [
+        372,
+        455,
+        830,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        193,
+        471,
+        575,
+        672
+      ],
+      "translation": [
+        190,
+        468
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_17.png",
+      "sourceFrameZeroBased": 32,
+      "timeSeconds": 1.3333333333333333,
+      "sourceBoundsAlpha128": [
+        375,
+        450,
+        826,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        196,
+        467,
+        572,
+        672
+      ],
+      "translation": [
+        193,
+        464
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_18.png",
+      "sourceFrameZeroBased": 34,
+      "timeSeconds": 1.4166666666666667,
+      "sourceBoundsAlpha128": [
+        378,
+        444,
+        822,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        199,
+        462,
+        570,
+        672
+      ],
+      "translation": [
+        196,
+        459
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_19.png",
+      "sourceFrameZeroBased": 36,
+      "timeSeconds": 1.5,
+      "sourceBoundsAlpha128": [
+        381,
+        438,
+        818,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        201,
+        457,
+        566,
+        672
+      ],
+      "translation": [
+        198,
+        454
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_20.png",
+      "sourceFrameZeroBased": 38,
+      "timeSeconds": 1.5833333333333333,
+      "sourceBoundsAlpha128": [
+        383,
+        434,
+        816,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        204,
+        454,
+        565,
+        672
+      ],
+      "translation": [
+        200,
+        451
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_21.png",
+      "sourceFrameZeroBased": 40,
+      "timeSeconds": 1.6666666666666667,
+      "sourceBoundsAlpha128": [
+        384,
+        434,
+        816,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        204,
+        454,
+        564,
+        672
+      ],
+      "translation": [
+        201,
+        451
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_22.png",
+      "sourceFrameZeroBased": 42,
+      "timeSeconds": 1.75,
+      "sourceBoundsAlpha128": [
+        380,
+        436,
+        818,
+        696
+      ],
+      "outputBoundsAlpha128": [
+        201,
+        455,
+        567,
+        672
+      ],
+      "translation": [
+        198,
+        452
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_23.png",
+      "sourceFrameZeroBased": 44,
+      "timeSeconds": 1.8333333333333333,
+      "sourceBoundsAlpha128": [
+        375,
+        441,
+        823,
+        696
+      ],
+      "outputBoundsAlpha128": [
+        198,
+        460,
+        570,
+        672
+      ],
+      "translation": [
+        194,
+        456
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_24.png",
+      "sourceFrameZeroBased": 46,
+      "timeSeconds": 1.9166666666666667,
+      "sourceBoundsAlpha128": [
+        368,
+        448,
+        829,
+        697
+      ],
+      "outputBoundsAlpha128": [
+        191,
+        465,
+        576,
+        672
+      ],
+      "translation": [
+        188,
+        461
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_25.png",
+      "sourceFrameZeroBased": 48,
+      "timeSeconds": 2.0,
+      "sourceBoundsAlpha128": [
+        359,
+        458,
+        837,
+        698
+      ],
+      "outputBoundsAlpha128": [
+        185,
+        471,
+        583,
+        672
+      ],
+      "translation": [
+        182,
+        468
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_26.png",
+      "sourceFrameZeroBased": 50,
+      "timeSeconds": 2.0833333333333335,
+      "sourceBoundsAlpha128": [
+        348,
+        469,
+        846,
+        699
+      ],
+      "outputBoundsAlpha128": [
+        176,
+        480,
+        592,
+        672
+      ],
+      "translation": [
+        173,
+        477
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_27.png",
+      "sourceFrameZeroBased": 52,
+      "timeSeconds": 2.1666666666666665,
+      "sourceBoundsAlpha128": [
+        335,
+        482,
+        855,
+        701
+      ],
+      "outputBoundsAlpha128": [
+        168,
+        490,
+        601,
+        672
+      ],
+      "translation": [
+        164,
+        487
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_28.png",
+      "sourceFrameZeroBased": 54,
+      "timeSeconds": 2.25,
+      "sourceBoundsAlpha128": [
+        321,
+        495,
+        866,
+        702
+      ],
+      "outputBoundsAlpha128": [
+        157,
+        499,
+        611,
+        672
+      ],
+      "translation": [
+        154,
+        496
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_29.png",
+      "sourceFrameZeroBased": 56,
+      "timeSeconds": 2.3333333333333335,
+      "sourceBoundsAlpha128": [
+        305,
+        508,
+        876,
+        703
+      ],
+      "outputBoundsAlpha128": [
+        146,
+        509,
+        622,
+        672
+      ],
+      "translation": [
+        143,
+        506
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_30.png",
+      "sourceFrameZeroBased": 58,
+      "timeSeconds": 2.4166666666666665,
+      "sourceBoundsAlpha128": [
+        288,
+        520,
+        887,
+        704
+      ],
+      "outputBoundsAlpha128": [
+        134,
+        518,
+        634,
+        672
+      ],
+      "translation": [
+        131,
+        515
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_31.png",
+      "sourceFrameZeroBased": 60,
+      "timeSeconds": 2.5,
+      "sourceBoundsAlpha128": [
+        284,
+        532,
+        888,
+        705
+      ],
+      "outputBoundsAlpha128": [
+        132,
+        527,
+        636,
+        672
+      ],
+      "translation": [
+        129,
+        524
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_32.png",
+      "sourceFrameZeroBased": 62,
+      "timeSeconds": 2.5833333333333335,
+      "sourceBoundsAlpha128": [
+        280,
+        542,
+        890,
+        708
+      ],
+      "outputBoundsAlpha128": [
+        129,
+        533,
+        638,
+        672
+      ],
+      "translation": [
+        126,
+        530
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_33.png",
+      "sourceFrameZeroBased": 64,
+      "timeSeconds": 2.6666666666666665,
+      "sourceBoundsAlpha128": [
+        272,
+        552,
+        893,
+        711
+      ],
+      "outputBoundsAlpha128": [
+        126,
+        539,
+        643,
+        672
+      ],
+      "translation": [
+        122,
+        536
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_34.png",
+      "sourceFrameZeroBased": 66,
+      "timeSeconds": 2.75,
+      "sourceBoundsAlpha128": [
+        266,
+        560,
+        895,
+        716
+      ],
+      "outputBoundsAlpha128": [
+        121,
+        541,
+        646,
+        672
+      ],
+      "translation": [
+        118,
+        538
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_35.png",
+      "sourceFrameZeroBased": 68,
+      "timeSeconds": 2.8333333333333335,
+      "sourceBoundsAlpha128": [
+        258,
+        566,
+        898,
+        720
+      ],
+      "outputBoundsAlpha128": [
+        117,
+        544,
+        651,
+        672
+      ],
+      "translation": [
+        114,
+        540
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_36.png",
+      "sourceFrameZeroBased": 70,
+      "timeSeconds": 2.9166666666666665,
+      "sourceBoundsAlpha128": [
+        252,
+        570,
+        902,
+        721
+      ],
+      "outputBoundsAlpha128": [
+        113,
+        546,
+        655,
+        672
+      ],
+      "translation": [
+        110,
+        543
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_37.png",
+      "sourceFrameZeroBased": 72,
+      "timeSeconds": 3.0,
+      "sourceBoundsAlpha128": [
+        248,
+        573,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        551,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        548
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_38.png",
+      "sourceFrameZeroBased": 74,
+      "timeSeconds": 3.0833333333333335,
+      "sourceBoundsAlpha128": [
+        248,
+        573,
+        908,
+        718
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        550,
+        660,
+        672
+      ],
+      "translation": [
+        106,
+        547
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_39.png",
+      "sourceFrameZeroBased": 76,
+      "timeSeconds": 3.1666666666666665,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        907,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        658,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_40.png",
+      "sourceFrameZeroBased": 78,
+      "timeSeconds": 3.25,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        658,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_41.png",
+      "sourceFrameZeroBased": 80,
+      "timeSeconds": 3.3333333333333335,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        658,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_42.png",
+      "sourceFrameZeroBased": 82,
+      "timeSeconds": 3.4166666666666665,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_43.png",
+      "sourceFrameZeroBased": 84,
+      "timeSeconds": 3.5,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_44.png",
+      "sourceFrameZeroBased": 86,
+      "timeSeconds": 3.5833333333333335,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_45.png",
+      "sourceFrameZeroBased": 88,
+      "timeSeconds": 3.6666666666666665,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_46.png",
+      "sourceFrameZeroBased": 90,
+      "timeSeconds": 3.75,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_47.png",
+      "sourceFrameZeroBased": 92,
+      "timeSeconds": 3.8333333333333335,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    },
+    {
+      "file": "Slime_Death_Left_48.png",
+      "sourceFrameZeroBased": 94,
+      "timeSeconds": 3.9166666666666665,
+      "sourceBoundsAlpha128": [
+        249,
+        571,
+        908,
+        719
+      ],
+      "outputBoundsAlpha128": [
+        109,
+        549,
+        659,
+        672
+      ],
+      "translation": [
+        106,
+        546
+      ]
+    }
+  ]
+}

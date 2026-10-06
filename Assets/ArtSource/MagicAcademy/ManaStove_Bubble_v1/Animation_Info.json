@@ -1,0 +1,34 @@
+{
+  "frames": 12,
+  "fps": 12,
+  "duration": 1.0,
+  "loop": true,
+  "selectedSourceFramesZeroBased": [
+    24,
+    46
+  ],
+  "matchingNextPhaseSourceFrame": 48,
+  "loopMatch": {
+    "start": 12,
+    "length": 12,
+    "end": 24,
+    "greenMaskIoU": 0.7031463748290013,
+    "upperAppearanceError": 43.13482447965207,
+    "score": 0.6777729486645001
+  },
+  "canvas": [
+    512,
+    512
+  ],
+  "groundY": 448,
+  "pivot": [
+    0.5,
+    0.37734375000000003
+  ],
+  "pixelsPerUnit": 256,
+  "constantScale": 0.8382352941176471,
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Characters\\Mana Stove\\Idle.anim",
+  "rootMotion": "removed with bounding-center and bottom anchor alignment",
+  "matte": "magenta background; mint liquid preserved; dark outline protected; no alpha erosion",
+  "unityEditorPlaybackVerified": false
+}

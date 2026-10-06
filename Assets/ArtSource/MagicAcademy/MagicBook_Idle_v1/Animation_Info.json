@@ -1,0 +1,389 @@
+{
+  "kind": "idle",
+  "frames": 15,
+  "fps": 12,
+  "duration": 1.25,
+  "loop": true,
+  "sourceVideo": "D:\\WorkSpace\\Arts\\Grok_MagicBook_Idle_v1\\MagicBook_Idle_720p_4s.mp4",
+  "sourceRevision": "v1",
+  "sourceRequestId": "7d6b3c31-4248-98f2-881b-6f7f02571582",
+  "sourceInfo": {
+    "width": 960,
+    "height": 960,
+    "fps": 24.0,
+    "frames": 97,
+    "duration": 4.041666666666667,
+    "audioStreams": 0
+  },
+  "canvas": [
+    512,
+    512
+  ],
+  "pixelsPerUnit": 256,
+  "pivot": [
+    0.5,
+    0.4208984375
+  ],
+  "sourceAnchorTopLeft": [
+    256.0,
+    296.5
+  ],
+  "constantScale": 0.6390977443609023,
+  "sourceTimeScale": 1,
+  "firstFrameMapping": [
+    -57,
+    -6
+  ],
+  "anchorPolicy": "idle horizontal center and bottom stabilized",
+  "editorialPolicy": "short real-video segment forward/reverse with endpoint holds; no synthetic redraw",
+  "selectedSourceTimes": [
+    1.666667,
+    1.666667
+  ],
+  "selectedRecords": [
+    {
+      "sourceFrameZeroBased": 40,
+      "sourceTime": 1.666667,
+      "sourceBounds": [
+        224,
+        253,
+        756,
+        710
+      ],
+      "boundsAlpha128": [
+        86,
+        156,
+        426,
+        448
+      ],
+      "paste": [
+        -57,
+        -6
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 40,
+      "sourceTime": 1.666667,
+      "sourceBounds": [
+        224,
+        253,
+        756,
+        710
+      ],
+      "boundsAlpha128": [
+        86,
+        156,
+        426,
+        448
+      ],
+      "paste": [
+        -57,
+        -6
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 42,
+      "sourceTime": 1.75,
+      "sourceBounds": [
+        222,
+        258,
+        757,
+        714
+      ],
+      "boundsAlpha128": [
+        85,
+        156,
+        427,
+        448
+      ],
+      "paste": [
+        -57,
+        -9
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 44,
+      "sourceTime": 1.833333,
+      "sourceBounds": [
+        222,
+        250,
+        757,
+        720
+      ],
+      "boundsAlpha128": [
+        85,
+        148,
+        427,
+        448
+      ],
+      "paste": [
+        -57,
+        -12
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 46,
+      "sourceTime": 1.916667,
+      "sourceBounds": [
+        222,
+        250,
+        756,
+        724
+      ],
+      "boundsAlpha128": [
+        86,
+        145,
+        427,
+        448
+      ],
+      "paste": [
+        -56,
+        -15
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 48,
+      "sourceTime": 2.0,
+      "sourceBounds": [
+        220,
+        250,
+        756,
+        728
+      ],
+      "boundsAlpha128": [
+        85,
+        142,
+        427,
+        448
+      ],
+      "paste": [
+        -56,
+        -18
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 50,
+      "sourceTime": 2.083333,
+      "sourceBounds": [
+        218,
+        250,
+        754,
+        733
+      ],
+      "boundsAlpha128": [
+        85,
+        138,
+        428,
+        448
+      ],
+      "paste": [
+        -54,
+        -21
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 52,
+      "sourceTime": 2.166667,
+      "sourceBounds": [
+        216,
+        250,
+        756,
+        733
+      ],
+      "boundsAlpha128": [
+        84,
+        139,
+        429,
+        448
+      ],
+      "paste": [
+        -54,
+        -21
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 52,
+      "sourceTime": 2.166667,
+      "sourceBounds": [
+        216,
+        250,
+        756,
+        733
+      ],
+      "boundsAlpha128": [
+        84,
+        139,
+        429,
+        448
+      ],
+      "paste": [
+        -54,
+        -21
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 50,
+      "sourceTime": 2.083333,
+      "sourceBounds": [
+        218,
+        250,
+        754,
+        733
+      ],
+      "boundsAlpha128": [
+        85,
+        138,
+        428,
+        448
+      ],
+      "paste": [
+        -54,
+        -21
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 48,
+      "sourceTime": 2.0,
+      "sourceBounds": [
+        220,
+        250,
+        756,
+        728
+      ],
+      "boundsAlpha128": [
+        85,
+        142,
+        427,
+        448
+      ],
+      "paste": [
+        -56,
+        -18
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 46,
+      "sourceTime": 1.916667,
+      "sourceBounds": [
+        222,
+        250,
+        756,
+        724
+      ],
+      "boundsAlpha128": [
+        86,
+        145,
+        427,
+        448
+      ],
+      "paste": [
+        -56,
+        -15
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 44,
+      "sourceTime": 1.833333,
+      "sourceBounds": [
+        222,
+        250,
+        757,
+        720
+      ],
+      "boundsAlpha128": [
+        85,
+        148,
+        427,
+        448
+      ],
+      "paste": [
+        -57,
+        -12
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 42,
+      "sourceTime": 1.75,
+      "sourceBounds": [
+        222,
+        258,
+        757,
+        714
+      ],
+      "boundsAlpha128": [
+        85,
+        156,
+        427,
+        448
+      ],
+      "paste": [
+        -57,
+        -9
+      ],
+      "deliberateLocalY": null
+    },
+    {
+      "sourceFrameZeroBased": 40,
+      "sourceTime": 1.666667,
+      "sourceBounds": [
+        224,
+        253,
+        756,
+        710
+      ],
+      "boundsAlpha128": [
+        86,
+        156,
+        426,
+        448
+      ],
+      "paste": [
+        -57,
+        -6
+      ],
+      "deliberateLocalY": null
+    }
+  ],
+  "loopCandidates": [
+    {
+      "method": "short low-drift segment; forward/reverse with endpoint holds",
+      "firstLastPixelDifference": 0,
+      "selectedFrameOrder": [
+        0,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ]
+    }
+  ],
+  "matte": "foreground support expanded to preserve black contour; green edge despill; no final alpha erosion",
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Characters\\Magic Book\\Idle.anim",
+  "unityEditorPlaybackVerified": false,
+  "warnings": [
+    "Real AI video: slight page/cover shape and color drift; loop seam may remain."
+  ]
+}

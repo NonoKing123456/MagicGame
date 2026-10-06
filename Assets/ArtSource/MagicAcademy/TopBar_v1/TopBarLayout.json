@@ -1,0 +1,137 @@
+{
+  "canvas": [
+    1280,
+    384
+  ],
+  "slots": [
+    {
+      "index": 1,
+      "card": "MagicBook",
+      "centerTopLeft": [
+        176,
+        195
+      ],
+      "cardRectTopLeft": [
+        95,
+        74,
+        162,
+        243
+      ],
+      "anchoredPositionFromParentCenter": [
+        -464,
+        -3
+      ],
+      "normalizedCenterBottomLeft": [
+        0.1375,
+        0.492188
+      ]
+    },
+    {
+      "index": 2,
+      "card": "AlchemyCauldron",
+      "centerTopLeft": [
+        408,
+        195
+      ],
+      "cardRectTopLeft": [
+        327,
+        74,
+        162,
+        243
+      ],
+      "anchoredPositionFromParentCenter": [
+        -232,
+        -3
+      ],
+      "normalizedCenterBottomLeft": [
+        0.31875,
+        0.492188
+      ]
+    },
+    {
+      "index": 3,
+      "card": "Gargoyle",
+      "centerTopLeft": [
+        640,
+        195
+      ],
+      "cardRectTopLeft": [
+        559,
+        74,
+        162,
+        243
+      ],
+      "anchoredPositionFromParentCenter": [
+        0,
+        -3
+      ],
+      "normalizedCenterBottomLeft": [
+        0.5,
+        0.492188
+      ]
+    },
+    {
+      "index": 4,
+      "card": "Slime",
+      "centerTopLeft": [
+        872,
+        195
+      ],
+      "cardRectTopLeft": [
+        791,
+        74,
+        162,
+        243
+      ],
+      "anchoredPositionFromParentCenter": [
+        232,
+        -3
+      ],
+      "normalizedCenterBottomLeft": [
+        0.68125,
+        0.492188
+      ]
+    },
+    {
+      "index": 5,
+      "card": "HelmetSlime",
+      "centerTopLeft": [
+        1104,
+        195
+      ],
+      "cardRectTopLeft": [
+        1023,
+        74,
+        162,
+        243
+      ],
+      "anchoredPositionFromParentCenter": [
+        464,
+        -3
+      ],
+      "normalizedCenterBottomLeft": [
+        0.8625,
+        0.492188
+      ]
+    }
+  ],
+  "sourceCrop": [
+    59,
+    69,
+    2089,
+    631
+  ],
+  "uniformScale": 0.5990147783251232,
+  "origin": [
+    32,
+    23
+  ],
+  "recommendedDisplaySize": [
+    960,
+    288
+  ],
+  "backgroundHasCardsBakedIn": false,
+  "ui": "Top-center anchored Image, Preserve Aspect. Add five independent child card Images with the listed centers. Scale coordinates with the bar RectTransform.",
+  "pixelsPerUnit": 400,
+  "unityEditorImportVerified": false
+}

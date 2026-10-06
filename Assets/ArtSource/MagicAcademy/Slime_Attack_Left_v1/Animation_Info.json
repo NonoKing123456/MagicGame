@@ -1,0 +1,238 @@
+{
+  "frames": 9,
+  "fps": 12,
+  "duration": 0.75,
+  "loop": false,
+  "canvas": [
+    768,
+    768
+  ],
+  "groundAnchorTopLeft": [
+    384.0,
+    672
+  ],
+  "unityPivot": [
+    0.5,
+    0.125
+  ],
+  "pixelsPerUnit": 280,
+  "constantScale": 0.8333333333333334,
+  "direction": "left",
+  "lastPose": "rounded left-facing idle blob",
+  "horizontalMotion": "Explicit lunge offset relative to fixed initial ground pivot",
+  "lungeOffsetsPx": [
+    0,
+    18,
+    10,
+    -55,
+    -125,
+    -105,
+    -65,
+    -25,
+    0
+  ],
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Attack.anim",
+  "frameFolder": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames",
+  "sourceVideo": "D:\\WorkSpace\\Arts\\Grok_Slime_Attack_Left_v3\\Slime_Attack_Left_720p_2s.mp4",
+  "UnityEditorVerified": false,
+  "records": [
+    {
+      "file": "Slime_Attack_Left_01.png",
+      "sourceFrameZeroBased": 16,
+      "timeSeconds": 0.0,
+      "bodyCenterOffsetPx": 0.0,
+      "sourceBoundsAlpha128": [
+        392,
+        417,
+        806,
+        694
+      ],
+      "outputBoundsAlpha128": [
+        211,
+        441,
+        557,
+        672
+      ],
+      "translation": [
+        208,
+        437
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_02.png",
+      "sourceFrameZeroBased": 18,
+      "timeSeconds": 0.08333333333333333,
+      "bodyCenterOffsetPx": 18.0,
+      "sourceBoundsAlpha128": [
+        399,
+        399,
+        785,
+        696
+      ],
+      "outputBoundsAlpha128": [
+        241,
+        425,
+        563,
+        672
+      ],
+      "translation": [
+        238,
+        422
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_03.png",
+      "sourceFrameZeroBased": 20,
+      "timeSeconds": 0.16666666666666666,
+      "bodyCenterOffsetPx": 10.5,
+      "sourceBoundsAlpha128": [
+        351,
+        420,
+        791,
+        694
+      ],
+      "outputBoundsAlpha128": [
+        211,
+        443,
+        578,
+        672
+      ],
+      "translation": [
+        208,
+        440
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_04.png",
+      "sourceFrameZeroBased": 22,
+      "timeSeconds": 0.25,
+      "bodyCenterOffsetPx": -55.0,
+      "sourceBoundsAlpha128": [
+        264,
+        461,
+        819,
+        692
+      ],
+      "outputBoundsAlpha128": [
+        98,
+        480,
+        560,
+        672
+      ],
+      "translation": [
+        94,
+        476
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_05.png",
+      "sourceFrameZeroBased": 24,
+      "timeSeconds": 0.3333333333333333,
+      "bodyCenterOffsetPx": -125.0,
+      "sourceBoundsAlpha128": [
+        200,
+        466,
+        800,
+        691
+      ],
+      "outputBoundsAlpha128": [
+        9,
+        484,
+        509,
+        672
+      ],
+      "translation": [
+        5,
+        481
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_06.png",
+      "sourceFrameZeroBased": 26,
+      "timeSeconds": 0.4166666666666667,
+      "bodyCenterOffsetPx": -104.5,
+      "sourceBoundsAlpha128": [
+        186,
+        450,
+        748,
+        693
+      ],
+      "outputBoundsAlpha128": [
+        45,
+        469,
+        514,
+        672
+      ],
+      "translation": [
+        42,
+        466
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_07.png",
+      "sourceFrameZeroBased": 28,
+      "timeSeconds": 0.5,
+      "bodyCenterOffsetPx": -64.5,
+      "sourceBoundsAlpha128": [
+        172,
+        433,
+        700,
+        694
+      ],
+      "outputBoundsAlpha128": [
+        99,
+        454,
+        540,
+        672
+      ],
+      "translation": [
+        96,
+        451
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_08.png",
+      "sourceFrameZeroBased": 30,
+      "timeSeconds": 0.5833333333333334,
+      "bodyCenterOffsetPx": -24.5,
+      "sourceBoundsAlpha128": [
+        163,
+        421,
+        662,
+        695
+      ],
+      "outputBoundsAlpha128": [
+        152,
+        444,
+        567,
+        672
+      ],
+      "translation": [
+        148,
+        441
+      ]
+    },
+    {
+      "file": "Slime_Attack_Left_09.png",
+      "sourceFrameZeroBased": 16,
+      "timeSeconds": 0.6666666666666666,
+      "bodyCenterOffsetPx": 0.0,
+      "sourceBoundsAlpha128": [
+        392,
+        417,
+        806,
+        694
+      ],
+      "outputBoundsAlpha128": [
+        211,
+        441,
+        557,
+        672
+      ],
+      "translation": [
+        208,
+        437
+      ]
+    }
+  ]
+}

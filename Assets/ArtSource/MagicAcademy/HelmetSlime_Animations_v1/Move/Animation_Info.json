@@ -1,0 +1,740 @@
+{
+  "kind": "Move",
+  "frames": 19,
+  "duration": 0.6166667,
+  "loop": true,
+  "clipSampleRate": 60.0,
+  "sourceClip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Move.anim",
+  "sourceTimingPreserved": true,
+  "uniquePixelFrames": 19,
+  "duplicateFrameGroups": [],
+  "bodyScale": 0.9826589595375722,
+  "pixelsPerUnit": 100,
+  "pivot": [
+    0.5,
+    0.12239583333333333
+  ],
+  "canvas": [
+    768,
+    768
+  ],
+  "ground": 672,
+  "referenceAnchor": [
+    256.0,
+    450.0
+  ],
+  "helmetWidth": 299,
+  "direction": "left",
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Helmet Slime\\Move.anim",
+  "production": "existing body PNG plus one built-in imagegen helmet; face-tracked rigid overlay; no new video",
+  "unchangedOutsideAccessory": true,
+  "clipReferencesResolve": true,
+  "unityEditorPlaybackVerified": false,
+  "records": [
+    {
+      "time": 0.0,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_01.png",
+      "sourceGuid": "7f503b25f5e24514a78f78bfa162c5cf",
+      "sourceSha256": "b6ce24abb662491b0e044977dbda23f934b65fe7e752d83bcac6e9a0c21d7db3",
+      "bodyBounds": [
+        253,
+        364,
+        517,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        324.7669357853031,
+        480
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        241,
+        327
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        243,
+        328,
+        538,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_01.png",
+      "guid": "2d5f7fc5d77b4617bc6273df68d4624f"
+    },
+    {
+      "time": 0.033333335,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_02.png",
+      "sourceGuid": "ffef24aab6a54725bcc9701009b4215f",
+      "sourceSha256": "528b85db7b485a576f9fe3b3028612063f4eb7646aab0cadd564fead7675405b",
+      "bodyBounds": [
+        234,
+        366,
+        536,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        315.92031377551984,
+        477
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        232,
+        324
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        234,
+        325,
+        536,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_02.png",
+      "guid": "b3f7cf73952741b2862087d42f470ba1"
+    },
+    {
+      "time": 0.06666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_03.png",
+      "sourceGuid": "3124a6324b134ab1bec7fbf1ef4fc169",
+      "sourceSha256": "acfa3b2ed882a81f7fd0b743e69187e8c4b4e81024eee08bf690f7b19d822143",
+      "bodyBounds": [
+        196,
+        385,
+        572,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        300.6088653116233,
+        490
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        217,
+        337
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        196,
+        338,
+        572,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_03.png",
+      "guid": "c64abb562c8d417d9a160b6a97ef491e"
+    },
+    {
+      "time": 0.1,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_04.png",
+      "sourceGuid": "d7cde8d6b75d44ce95f0fd3075b63ec7",
+      "sourceSha256": "1620c89ca8e649e043305de06c9a4d21b0a7d6cb0160bb2d2d8b143137cb03e8",
+      "bodyBounds": [
+        157,
+        405,
+        613,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        294.17993574766354,
+        506
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        210,
+        353
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        157,
+        354,
+        613,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_04.png",
+      "guid": "0e836adcdb0042ff92135ffe840e11e5"
+    },
+    {
+      "time": 0.13333334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_05.png",
+      "sourceGuid": "f2f2e96a81d14144a79d27a3b46efd15",
+      "sourceSha256": "27281222d87a1f3efe0cfcdfca3469aadaa04d1d101066ef45425eeee5876066",
+      "bodyBounds": [
+        127,
+        427,
+        642,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        287.11030567857233,
+        528
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        203,
+        375
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        127,
+        376,
+        642,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_05.png",
+      "guid": "1d3730bac8bd4e088f9459513d71fad0"
+    },
+    {
+      "time": 0.16666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_06.png",
+      "sourceGuid": "b9d461a5b46a4e1081b33920cb491048",
+      "sourceSha256": "7b7d38473cec90f103df0a9d9edb609fd21d15be2e67900716f99e62f6465e6a",
+      "bodyBounds": [
+        94,
+        447,
+        673,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        285.67653633751934,
+        545
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        202,
+        392
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        94,
+        393,
+        673,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_06.png",
+      "guid": "f0c49e1edf9843b09feb4c572b548e82"
+    },
+    {
+      "time": 0.2,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_07.png",
+      "sourceGuid": "494b877423e947118fc93939509635a1",
+      "sourceSha256": "61663723c31b684e147eb3492ddafbcdd0f3ffc45f2d3b1ff3199e0bb3776714",
+      "bodyBounds": [
+        95,
+        456,
+        674,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        282.9783406020743,
+        551
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        199,
+        398
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        95,
+        399,
+        674,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_07.png",
+      "guid": "96012e08c5d24734a25a51a501a0a359"
+    },
+    {
+      "time": 0.23333333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_08.png",
+      "sourceGuid": "b5c32df347034043a804f96cfe0ae7f4",
+      "sourceSha256": "75504cf4dd29cc5b795e525558ec9484c9b43e93e6aea18351391c33b46240f0",
+      "bodyBounds": [
+        91,
+        464,
+        678,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        281.77777249283076,
+        555
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        198,
+        402
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        91,
+        403,
+        678,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_08.png",
+      "guid": "aa616c75ad354fc697a39e97d92c912b"
+    },
+    {
+      "time": 0.26666668,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_09.png",
+      "sourceGuid": "397be06ec9eb40c795bec757bbd17fae",
+      "sourceSha256": "f194f1b4133d1d57f69ae71c381e89fe9e0561989c5df1df7abf793fad5efd8e",
+      "bodyBounds": [
+        105,
+        451,
+        664,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        288.77906172628025,
+        548
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        205,
+        395
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        105,
+        396,
+        664,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_09.png",
+      "guid": "5c14e1a0e5b1401c865629ce59e32d5c"
+    },
+    {
+      "time": 0.3,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_10.png",
+      "sourceGuid": "925147954db24a27a3cc30f872a680e2",
+      "sourceSha256": "09724c0e1d8668c8feb81996285090b193a1ec9792c2b8b7e1aaf00f8d7713ea",
+      "bodyBounds": [
+        114,
+        440,
+        655,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        293.95666357047025,
+        542
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        210,
+        389
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        114,
+        390,
+        655,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_10.png",
+      "guid": "08547d94a1604b00860063412ba1f1e9"
+    },
+    {
+      "time": 0.33333334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_11.png",
+      "sourceGuid": "8112fa4865dc4884b5c8b7d16af8de33",
+      "sourceSha256": "a86025a1713638e32ee8ec089ca45548bf36744666826048ecb741a7fbab819d",
+      "bodyBounds": [
+        122,
+        434,
+        648,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        292.5723383203645,
+        539
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        209,
+        386
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        122,
+        387,
+        648,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_11.png",
+      "guid": "142bff2003c54ef5862bb931f210d800"
+    },
+    {
+      "time": 0.36666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_12.png",
+      "sourceGuid": "2e022fe255f94453b06800037f7b3738",
+      "sourceSha256": "e0b40bcdda5f96fadd4976bd0c092a0a2ee306afb0b3ce25455e59169d28e32d",
+      "bodyBounds": [
+        138,
+        432,
+        631,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        291.9066964375922,
+        534
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        208,
+        381
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        138,
+        382,
+        631,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_12.png",
+      "guid": "e6422af388aa41ff964000768f86597f"
+    },
+    {
+      "time": 0.4,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_13.png",
+      "sourceGuid": "14abeec0c1674fea8ad39710f5fc7f35",
+      "sourceSha256": "ec291f89c8291a961b468c4e9d4931cab476c4be0e37ea4c3a8869939e80f2c5",
+      "bodyBounds": [
+        155,
+        426,
+        614,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        294.28644916796145,
+        531
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        211,
+        378
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        155,
+        379,
+        614,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_13.png",
+      "guid": "e4823a48b9b6485abe163a2d00079254"
+    },
+    {
+      "time": 0.43333334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_14.png",
+      "sourceGuid": "b560004748724f0c915498037a3bb77a",
+      "sourceSha256": "794fa5b3855ebe3cd66fd0232526826d88203c3c165bbae2bb718bbdbc1b510f",
+      "bodyBounds": [
+        169,
+        420,
+        598,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        296.4715652265321,
+        526
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        213,
+        373
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        169,
+        374,
+        598,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_14.png",
+      "guid": "687fdc350d5e48a09dde6686089210c6"
+    },
+    {
+      "time": 0.46666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_15.png",
+      "sourceGuid": "e4fa08ac6b914066b8f0a3fe958e8916",
+      "sourceSha256": "cd93126c516ab143b6d32966e2e004022c5c04404e78b3e08a809e227e07b925",
+      "bodyBounds": [
+        182,
+        421,
+        586,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.19523253588517,
+        526
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        213,
+        373
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        182,
+        374,
+        586,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_15.png",
+      "guid": "41bf4b4abc19494a8c0acbd6ea31224f"
+    },
+    {
+      "time": 0.5,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_16.png",
+      "sourceGuid": "15b8b32f48d44ba7b7c99053a7f610ae",
+      "sourceSha256": "47f8a2ea8b9f01b4f0248081bd7191ecf1740bfd78d3c01ee159bc24ff195f82",
+      "bodyBounds": [
+        192,
+        420,
+        576,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        299.3161923981985,
+        524
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        216,
+        371
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        192,
+        372,
+        576,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_16.png",
+      "guid": "67a65b7c5b614326baa73144444b49fb"
+    },
+    {
+      "time": 0.53333336,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_17.png",
+      "sourceGuid": "71e99f4c4b6b455ead4b40ab31222816",
+      "sourceSha256": "64bf416d0b39eb26d6ff7a291b29c95a11f05af5dc67a8125edf8d1b21b0e329",
+      "bodyBounds": [
+        221,
+        401,
+        548,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        311.79512353763613,
+        513
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        228,
+        360
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        221,
+        361,
+        548,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_17.png",
+      "guid": "6275b8b1f0544c988a5bbdbdb9ee8789"
+    },
+    {
+      "time": 0.56666666,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_18.png",
+      "sourceGuid": "3ec0cc5b1b8941cb9411316fbbe3d56b",
+      "sourceSha256": "bac8bdd513edaf43cf188f34c3d42f7c9385fd6d669578b9bfd8d0e16508b977",
+      "bodyBounds": [
+        244,
+        381,
+        525,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        321.3043728414337,
+        499
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        238,
+        346
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        240,
+        347,
+        535,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_18.png",
+      "guid": "9cd32d9792a04a7b9d9d281ea0e0b9ee"
+    },
+    {
+      "time": 0.6,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Crawl_v1\\Frames\\Crawl_Left_19.png",
+      "sourceGuid": "4292fea2130444bea4f58169f9f5f69d",
+      "sourceSha256": "7f45c0bc8db69db97005aacc8effb85597735e21cf8534eeda833c47a793518e",
+      "bodyBounds": [
+        267,
+        358,
+        503,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        331.3036435286522,
+        479
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        248,
+        326
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        250,
+        327,
+        545,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Move_19.png",
+      "guid": "2a564996e37f4a2b8808a7046a959668"
+    }
+  ],
+  "introducedDuplicateFrameGroups": [],
+  "originalSourceDuplicateGroups": []
+}

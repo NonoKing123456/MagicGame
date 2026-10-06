@@ -1,0 +1,1221 @@
+{
+  "kind": "Death",
+  "frames": 32,
+  "duration": 2.6666665,
+  "loop": false,
+  "clipSampleRate": 12.0,
+  "sourceClip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Death.anim",
+  "sourceTimingPreserved": true,
+  "uniquePixelFrames": 32,
+  "duplicateFrameGroups": [],
+  "bodyScale": 0.9826589595375722,
+  "pixelsPerUnit": 100,
+  "pivot": [
+    0.5,
+    0.12239583333333333
+  ],
+  "canvas": [
+    768,
+    768
+  ],
+  "ground": 672,
+  "referenceAnchor": [
+    256.0,
+    450.0
+  ],
+  "helmetWidth": 299,
+  "direction": "left",
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Helmet Slime\\Death.anim",
+  "production": "existing body PNG plus one built-in imagegen helmet; face-tracked rigid overlay; no new video",
+  "unchangedOutsideAccessory": true,
+  "clipReferencesResolve": true,
+  "unityEditorPlaybackVerified": false,
+  "records": [
+    {
+      "time": 0.0,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_01.png",
+      "sourceGuid": "77fd150c3a9142b28a464823369b162e",
+      "sourceSha256": "c94b5ad44b9e7a2aef887399ec7ec255814bb42dcdee0c3be5f697f207f302b0",
+      "bodyBounds": [
+        217,
+        445,
+        551,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        318.423595146871,
+        537
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        235,
+        384
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        217,
+        385,
+        551,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_01.png",
+      "guid": "29d3e484b1184f10a1e368a1fdfb101a"
+    },
+    {
+      "time": 0.083333336,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_05.png",
+      "sourceGuid": "0bc8157d1b19437aa9b1c1b0a36eb10c",
+      "sourceSha256": "ddebda45570973fc345fa63611a818d8a5c67aac946ba07ee3b74f52d27a393c",
+      "bodyBounds": [
+        213,
+        452,
+        556,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        317.0901018153876,
+        545
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        233,
+        392
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        213,
+        393,
+        556,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_02.png",
+      "guid": "1927f29986e54a32888f2616e98f46d2"
+    },
+    {
+      "time": 0.16666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_06.png",
+      "sourceGuid": "00863e9dacfd42fc9afa3c673868d876",
+      "sourceSha256": "a85ae1b16409acd7c37caa81b9fc0559207b05d82ff0d1e2ea9e5f10fc95f266",
+      "bodyBounds": [
+        197,
+        474,
+        573,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        311.0255533129176,
+        571
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        418
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        197,
+        419,
+        573,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_03.png",
+      "guid": "0c16efafa7e04398b137629b059ee0b1"
+    },
+    {
+      "time": 0.25,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_07.png",
+      "sourceGuid": "7ada652b12eb42098c8140101e090339",
+      "sourceSha256": "c5b4a65c9b180ca4b908bc2babf4d7cadc9aed887091860ae8de31b838c1f8c5",
+      "bodyBounds": [
+        193,
+        480,
+        575,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        309.236098925853,
+        578
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        226,
+        425
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        193,
+        426,
+        575,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_04.png",
+      "guid": "b890bf0d71cd49d4876a4b00622669bc"
+    },
+    {
+      "time": 0.33333334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_08.png",
+      "sourceGuid": "af10110682f94386abd64f3416bbe556",
+      "sourceSha256": "5ad808f87b775567573559d858d4becc54b959ae1f365b7c5e7874992f25c6a1",
+      "bodyBounds": [
+        234,
+        417,
+        534,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        324.22802197802196,
+        555
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        241,
+        402
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        234,
+        403,
+        538,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_05.png",
+      "guid": "b4b0d0cf7eab4d92a2a3e75c83afbda4"
+    },
+    {
+      "time": 0.41666666,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_09.png",
+      "sourceGuid": "7642f7bd2a484af491791e252d107fb7",
+      "sourceSha256": "fcc6dda55d41457956407ca0be58842e2af1072fd7e58d2fdac861a056f99650",
+      "bodyBounds": [
+        244,
+        403,
+        525,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        328.19230321491625,
+        550
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        244,
+        397
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        244,
+        398,
+        541,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_06.png",
+      "guid": "f51d84d645044baf906f90e4cb358052"
+    },
+    {
+      "time": 0.5,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_11.png",
+      "sourceGuid": "2156d0c69824418198e09c490b4de3c6",
+      "sourceSha256": "d18a68f7cd1943323224ac87dae488b0d28e6bf96281b8c5b162176c04a7919b",
+      "bodyBounds": [
+        232,
+        421,
+        538,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        324.31501376103256,
+        557
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        241,
+        404
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        232,
+        405,
+        538,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_07.png",
+      "guid": "ee32a54e8c3c47509a38435fe0b62663"
+    },
+    {
+      "time": 0.5833333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_13.png",
+      "sourceGuid": "7edc93b3184a46ea92409e7095a393af",
+      "sourceSha256": "8fb54ba8dfdb59b4f9d6e34c7557acfc99387aaddf15575ba2e645aac5f18740",
+      "bodyBounds": [
+        213,
+        451,
+        556,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        317.5290322580645,
+        569
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        234,
+        416
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        213,
+        417,
+        556,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_08.png",
+      "guid": "6de6c9fcc0a3400fb95f72370aa4e62c"
+    },
+    {
+      "time": 0.6666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_15.png",
+      "sourceGuid": "4ec6a98a0e7e4097b207ed09c4f9d95f",
+      "sourceSha256": "b15476aba9ecb94e1472aab2c858d7983fbbd7a64465cfdce7030f11373016f9",
+      "bodyBounds": [
+        195,
+        479,
+        575,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        311.1394932589493,
+        577
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        424
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        195,
+        425,
+        575,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_09.png",
+      "guid": "d2ad1bfd0d6d4ec4a522589a236cd525"
+    },
+    {
+      "time": 0.75,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_25.png",
+      "sourceGuid": "3253e2dd2e7e4ea7b723166e2930bece",
+      "sourceSha256": "b37a47203e854666f7953e010eb5694bcf833f95a81c394238ef22b4016a53b4",
+      "bodyBounds": [
+        189,
+        475,
+        581,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        309.3173383187924,
+        579
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        226,
+        426
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        189,
+        427,
+        581,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_10.png",
+      "guid": "cf7e913a9c2b4ee3ba64207ad44e9058"
+    },
+    {
+      "time": 0.8333333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_27.png",
+      "sourceGuid": "dc4781de563a4f7889a4c9ddd4fd8384",
+      "sourceSha256": "d0bcf5e4b6826b35c569806d37e01bb28c14795a312208f8ccb936217d6ca803",
+      "bodyBounds": [
+        172,
+        494,
+        598,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        302.73944581280784,
+        586
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        219,
+        433
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        172,
+        434,
+        598,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_11.png",
+      "guid": "7ef5095b2f48496ab2bf29d53ef6b448"
+    },
+    {
+      "time": 0.9166667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_28.png",
+      "sourceGuid": "f68e4a4fb1c045cbb486b3153caf0bf5",
+      "sourceSha256": "468069fd599028365f88e9474a572583431f2b88c5ef549211a32349ab922d4d",
+      "bodyBounds": [
+        162,
+        503,
+        608,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        299.5228910968245,
+        589
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        216,
+        436
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        162,
+        437,
+        608,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_12.png",
+      "guid": "f4cb550b26a547b9bd96f8ea0b5c5ae2"
+    },
+    {
+      "time": 1.0,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_29.png",
+      "sourceGuid": "11e2a46d15e544bab274754e92df2870",
+      "sourceSha256": "002107ea74198f5954b20e148d57e517caacf194731939c0180e7c184efeb937",
+      "bodyBounds": [
+        151,
+        513,
+        618,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        296.53090741343755,
+        593
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        213,
+        440
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        151,
+        441,
+        618,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_13.png",
+      "guid": "a228ecc5178649e7ad457024c604aca6"
+    },
+    {
+      "time": 1.0833334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_30.png",
+      "sourceGuid": "3df0ca205e6741d1bd999a73a594ffcc",
+      "sourceSha256": "7db41cc30da3274870adb9fb416ffc571bb49ba063136d981b7570bf3f0d6790",
+      "bodyBounds": [
+        139,
+        522,
+        630,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        293.28901927668744,
+        598
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        210,
+        445
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        139,
+        446,
+        630,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_14.png",
+      "guid": "30bf8b40f3504e03aed8027a8aef1035"
+    },
+    {
+      "time": 1.1666666,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_31.png",
+      "sourceGuid": "7672c5ec135a4325ad1b6cdb367f23cd",
+      "sourceSha256": "30410bfec563ed563fc48ea06a6d39403a2cf6b45276f440b9ce67458ce05d12",
+      "bodyBounds": [
+        137,
+        530,
+        632,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        294.1467670201847,
+        600
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        210,
+        447
+      ],
+      "helmetRotation": -0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        137,
+        448,
+        632,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_15.png",
+      "guid": "a85c5735a97c4fa6a559db3f81b4efee"
+    },
+    {
+      "time": 1.25,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_32.png",
+      "sourceGuid": "5cc22ac432cc46649d5da81b2ba01063",
+      "sourceSha256": "e3a076e8c4d7cc5d17958288031f4d7c63404372d6dafb162cbb8e3c9cac51dc",
+      "bodyBounds": [
+        134,
+        536,
+        634,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        294.26849871685204,
+        600
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        213,
+        446
+      ],
+      "helmetRotation": -0.8536009445100341,
+      "detach": 0.0474222746950019,
+      "resultBounds": [
+        134,
+        451,
+        634,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_16.png",
+      "guid": "d4f3f1b142c14eabb9b0dd8680468445"
+    },
+    {
+      "time": 1.3333334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_33.png",
+      "sourceGuid": "08b95fb7dd6e4fda84c849f985762b44",
+      "sourceSha256": "55080e86751b0845380fdcc201bdff3a8ca6b3cdbb79b348d4f29a523320cd84",
+      "bodyBounds": [
+        130,
+        542,
+        639,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        296.6548564273314,
+        601
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        220,
+        446
+      ],
+      "helmetRotation": -1.7547051878602666,
+      "detach": 0.0974836215477926,
+      "resultBounds": [
+        130,
+        453,
+        639,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_17.png",
+      "guid": "006f623a1e8f497bb27a8d8d2cd32cca"
+    },
+    {
+      "time": 1.4166666,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_34.png",
+      "sourceGuid": "105484a92f9b4ec6b27e146624d23f3d",
+      "sourceSha256": "41377a17d742c3d1fe634a1d2648365b23691107ca22d2b6daaf4c8d6c1bebcd",
+      "bodyBounds": [
+        126,
+        544,
+        642,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.0060657642323,
+        599
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        222,
+        444
+      ],
+      "helmetRotation": -2.2953677338704064,
+      "detach": 0.12752042965946703,
+      "resultBounds": [
+        126,
+        452,
+        642,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_18.png",
+      "guid": "98eacc5dbcac47f7b0d657b18c68e0c0"
+    },
+    {
+      "time": 1.5,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_35.png",
+      "sourceGuid": "5994e4159a6646e58bca75aa0285dd9b",
+      "sourceSha256": "b0ef4400ba709dd643bb1ce4958e2084b8edac7996dd49e3a4f134bdf21254aa",
+      "bodyBounds": [
+        122,
+        546,
+        647,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        299.2302059202059,
+        598
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        225,
+        442
+      ],
+      "helmetRotation": -2.6558094312105,
+      "detach": 0.14754496840058332,
+      "resultBounds": [
+        122,
+        451,
+        647,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_19.png",
+      "guid": "5f0ea6f7607544d7b12383b57bdbe478"
+    },
+    {
+      "time": 1.5833334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_36.png",
+      "sourceGuid": "e014d202a3bb471da1b610845538ed01",
+      "sourceSha256": "253b60b0fcfb39bd2f818df8679790e64ee1b5bd3e58ec984e0ec96afa9fe96f",
+      "bodyBounds": [
+        118,
+        549,
+        651,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        299.26774472454133,
+        599
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        442
+      ],
+      "helmetRotation": -3.1964719772206394,
+      "detach": 0.17758177651225773,
+      "resultBounds": [
+        118,
+        453,
+        651,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_20.png",
+      "guid": "2ea8fff7a06e43a1b22fcb56488a5f7d"
+    },
+    {
+      "time": 1.6666666,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_37.png",
+      "sourceGuid": "315dcc0c60b745b0bd6e595997f718fb",
+      "sourceSha256": "a85a427a54ddf8ba0b6b9d1b732e3cc18267192b91b5eb8385a9dd37147932ff",
+      "bodyBounds": [
+        114,
+        554,
+        655,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.4911166459112,
+        603
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        229,
+        445
+      ],
+      "helmetRotation": -3.917355371900825,
+      "detach": 0.21763085399449028,
+      "resultBounds": [
+        114,
+        457,
+        655,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_21.png",
+      "guid": "973731236ae043b0a5eeecea07a5aacd"
+    },
+    {
+      "time": 1.75,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_38.png",
+      "sourceGuid": "9cbc789a3ef14d9fa94ffeb564ee37ef",
+      "sourceSha256": "bf7ae6997833d690b419ab0c58b42b76e9161a6d92fab848ceefd9f0b06e3f04",
+      "bodyBounds": [
+        114,
+        553,
+        656,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.86126245847174,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        229,
+        444
+      ],
+      "helmetRotation": -3.917355371900825,
+      "detach": 0.21763085399449028,
+      "resultBounds": [
+        114,
+        456,
+        656,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_22.png",
+      "guid": "b527204f044d41d19a16bd12ed20115a"
+    },
+    {
+      "time": 1.8333334,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_39.png",
+      "sourceGuid": "c5a0519e2bca4281a68a40c7cffb715c",
+      "sourceSha256": "fc75a41ccf77ef9b083ee9fbc1e9486390906415aceff872a4bcbd9952a98920",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        296.9971880993106,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_23.png",
+      "guid": "cc1f048f325a4326b069d331c14265ff"
+    },
+    {
+      "time": 1.9166666,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_40.png",
+      "sourceGuid": "ce3688c4f9854fb8aa1904558c003ba2",
+      "sourceSha256": "5c177e43b774cb6c1f9c47e4f5f91395bf72eceeabc1084ac14c5fab474542c1",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.06203080256944,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_24.png",
+      "guid": "39682472dd2a4b75a37c05a6c0839001"
+    },
+    {
+      "time": 2.0,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_41.png",
+      "sourceGuid": "5400d2a0984343d8a3bf74521157d858",
+      "sourceSha256": "48578a5942ddd66ebcb11c722610f36e82e54755cf2fe2f01dc68578a21984c2",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.06203080256944,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_25.png",
+      "guid": "d4bc95b1364543f589ce3e17309a0d34"
+    },
+    {
+      "time": 2.0833333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_42.png",
+      "sourceGuid": "dcd54f2eef1647bbaff26566e58c498d",
+      "sourceSha256": "1a001c56d741e4dc3c425aead877216983fd0df1a3ec26574d6411d220adf91c",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.11414154652687,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_26.png",
+      "guid": "823212ab6ef34b4ca2d531a48a3af90e"
+    },
+    {
+      "time": 2.1666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_43.png",
+      "sourceGuid": "cbaa336b52dd4d85aefcf066ab4b2ccb",
+      "sourceSha256": "44fc3b0895d8e04dd11ffb59abb4277c729d649f64316ea7e9bf125f67a6f3a2",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.11414154652687,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_27.png",
+      "guid": "3acda5cb275041a7b52eb4959a28afac"
+    },
+    {
+      "time": 2.25,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_44.png",
+      "sourceGuid": "9642073838ea424494e3561ca9a40ff6",
+      "sourceSha256": "aeb824f5c633531a83aa328bc02b6445d32a763eba30a5800b5716c60e1f63b0",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.05548894912425,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_28.png",
+      "guid": "19b352ee2ed142f78654a5236ee84a85"
+    },
+    {
+      "time": 2.3333333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_45.png",
+      "sourceGuid": "b399f484fa234e9baae8e2808a07b150",
+      "sourceSha256": "055f73e42fa48f03dff2731d3bbb9fd4b43844e6dd05056cfe613bfc96973ead",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.0084272608126,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_29.png",
+      "guid": "feeff2bdadf844d09ef3ac57e54dfe52"
+    },
+    {
+      "time": 2.4166667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_46.png",
+      "sourceGuid": "b23baf06abed46bfa49db8fc65332ec3",
+      "sourceSha256": "702e41350a13ca6ad96f724e8dfd85e56a4b28c3414dc37c6c25a89be2af81b7",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.02116946114097,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_30.png",
+      "guid": "3c60a73214a5479aa1f4aee61bc75cfb"
+    },
+    {
+      "time": 2.5,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_47.png",
+      "sourceGuid": "0106ec8148c646fab96d4aea1189ad32",
+      "sourceSha256": "bb91df0d642b2442f77ccdc3ff85cb698b30cd7a3849be69333f9323b7b700ca",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        296.9798558322411,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_31.png",
+      "guid": "d5e18881b10b49dbba9641c134ec9312"
+    },
+    {
+      "time": 2.5833333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Death_Left_v1\\Frames\\Slime_Death_Left_48.png",
+      "sourceGuid": "bdd8b4a945fe421499cb83372403180a",
+      "sourceSha256": "8a4ed594087fb0ce3c62518f2d925a7479a5546f39451dd697eb5e10fb2e5eef",
+      "bodyBounds": [
+        114,
+        552,
+        654,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        297.022454856787,
+        602
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        227,
+        444
+      ],
+      "helmetRotation": -3.556913674560732,
+      "detach": 0.197606315253374,
+      "resultBounds": [
+        114,
+        456,
+        654,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Death_32.png",
+      "guid": "a6677d568d26404db7477ae8cf10133b"
+    }
+  ],
+  "introducedDuplicateFrameGroups": [],
+  "originalSourceDuplicateGroups": []
+}

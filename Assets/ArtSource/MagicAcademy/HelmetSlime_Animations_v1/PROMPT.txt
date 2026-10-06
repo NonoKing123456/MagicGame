@@ -1,0 +1,1 @@
+Extract only the gray dome helmet with gold rim and one round gold stud from HelmetSlime.png; mirror it to face left; preserve cartoon design and thick dark outline; remove the entire slime; genuine transparent PNG.

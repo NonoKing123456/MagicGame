@@ -1,0 +1,333 @@
+{
+  "frameCount": 19,
+  "fps": 24,
+  "cycleSeconds": 0.7916666666666666,
+  "sourceFramesZeroBased": [
+    64,
+    82
+  ],
+  "matchingNextPhaseSourceFrame": 83,
+  "canvas": [
+    768,
+    768
+  ],
+  "constantScale": 0.8333333333333334,
+  "groundAnchorTopLeft": [
+    384,
+    672
+  ],
+  "unityPivot": [
+    0.5,
+    0.125
+  ],
+  "pixelsPerUnit": 512,
+  "direction": "left",
+  "rootMotion": "removed by horizontal bounding-center and bottom anchoring; move the unit with Unity code",
+  "content": "actual video frames; no AI redraw, no interpolation, no nonuniform scaling",
+  "frames": [
+    {
+      "file": "Crawl_Left_01.png",
+      "sourceFrameZeroBased": 64,
+      "sourceTimeSeconds": 2.6666666666666665,
+      "boundsAlpha128": [
+        250,
+        358,
+        518,
+        672
+      ],
+      "translationPx": [
+        248,
+        355
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_02.png",
+      "sourceFrameZeroBased": 65,
+      "sourceTimeSeconds": 2.7083333333333335,
+      "boundsAlpha128": [
+        231,
+        361,
+        538,
+        672
+      ],
+      "translationPx": [
+        228,
+        358
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_03.png",
+      "sourceFrameZeroBased": 66,
+      "sourceTimeSeconds": 2.75,
+      "boundsAlpha128": [
+        192,
+        380,
+        575,
+        672
+      ],
+      "translationPx": [
+        190,
+        377
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_04.png",
+      "sourceFrameZeroBased": 67,
+      "sourceTimeSeconds": 2.7916666666666665,
+      "boundsAlpha128": [
+        152,
+        400,
+        617,
+        672
+      ],
+      "translationPx": [
+        150,
+        397
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_05.png",
+      "sourceFrameZeroBased": 68,
+      "sourceTimeSeconds": 2.8333333333333335,
+      "boundsAlpha128": [
+        122,
+        422,
+        646,
+        672
+      ],
+      "translationPx": [
+        120,
+        420
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_06.png",
+      "sourceFrameZeroBased": 69,
+      "sourceTimeSeconds": 2.875,
+      "boundsAlpha128": [
+        89,
+        443,
+        678,
+        672
+      ],
+      "translationPx": [
+        86,
+        440
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_07.png",
+      "sourceFrameZeroBased": 70,
+      "sourceTimeSeconds": 2.9166666666666665,
+      "boundsAlpha128": [
+        89,
+        451,
+        679,
+        672
+      ],
+      "translationPx": [
+        87,
+        449
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_08.png",
+      "sourceFrameZeroBased": 71,
+      "sourceTimeSeconds": 2.9583333333333335,
+      "boundsAlpha128": [
+        85,
+        459,
+        683,
+        672
+      ],
+      "translationPx": [
+        83,
+        457
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_09.png",
+      "sourceFrameZeroBased": 72,
+      "sourceTimeSeconds": 3.0,
+      "boundsAlpha128": [
+        99,
+        447,
+        669,
+        672
+      ],
+      "translationPx": [
+        97,
+        444
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_10.png",
+      "sourceFrameZeroBased": 73,
+      "sourceTimeSeconds": 3.0416666666666665,
+      "boundsAlpha128": [
+        109,
+        436,
+        659,
+        672
+      ],
+      "translationPx": [
+        106,
+        433
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_11.png",
+      "sourceFrameZeroBased": 74,
+      "sourceTimeSeconds": 3.0833333333333335,
+      "boundsAlpha128": [
+        116,
+        430,
+        652,
+        672
+      ],
+      "translationPx": [
+        114,
+        427
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_12.png",
+      "sourceFrameZeroBased": 75,
+      "sourceTimeSeconds": 3.125,
+      "boundsAlpha128": [
+        133,
+        427,
+        635,
+        672
+      ],
+      "translationPx": [
+        131,
+        424
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_13.png",
+      "sourceFrameZeroBased": 76,
+      "sourceTimeSeconds": 3.1666666666666665,
+      "boundsAlpha128": [
+        150,
+        421,
+        617,
+        672
+      ],
+      "translationPx": [
+        148,
+        418
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_14.png",
+      "sourceFrameZeroBased": 77,
+      "sourceTimeSeconds": 3.2083333333333335,
+      "boundsAlpha128": [
+        165,
+        416,
+        602,
+        672
+      ],
+      "translationPx": [
+        162,
+        413
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_15.png",
+      "sourceFrameZeroBased": 78,
+      "sourceTimeSeconds": 3.25,
+      "boundsAlpha128": [
+        178,
+        417,
+        589,
+        672
+      ],
+      "translationPx": [
+        176,
+        414
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_16.png",
+      "sourceFrameZeroBased": 79,
+      "sourceTimeSeconds": 3.2916666666666665,
+      "boundsAlpha128": [
+        188,
+        416,
+        579,
+        672
+      ],
+      "translationPx": [
+        186,
+        413
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_17.png",
+      "sourceFrameZeroBased": 80,
+      "sourceTimeSeconds": 3.3333333333333335,
+      "boundsAlpha128": [
+        217,
+        395,
+        551,
+        672
+      ],
+      "translationPx": [
+        215,
+        393
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_18.png",
+      "sourceFrameZeroBased": 81,
+      "sourceTimeSeconds": 3.375,
+      "boundsAlpha128": [
+        242,
+        376,
+        526,
+        672
+      ],
+      "translationPx": [
+        239,
+        373
+      ],
+      "visibleGreenPixels": 0
+    },
+    {
+      "file": "Crawl_Left_19.png",
+      "sourceFrameZeroBased": 82,
+      "sourceTimeSeconds": 3.4166666666666665,
+      "boundsAlpha128": [
+        265,
+        352,
+        504,
+        672
+      ],
+      "translationPx": [
+        262,
+        350
+      ],
+      "visibleGreenPixels": 0
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "sourceFilesUnchanged": true,
+  "bodyUnchangedOutsideHelmet": true,
+  "allClipReferencesResolve": true,
+  "newVideoRequests": 0,
+  "imageGeneration": "built-in imagegen",
+  "unityEditorPlaybackVerified": false,
+  "animations": [
+    {
+      "kind": "Move",
+      "frames": 19,
+      "duration": 0.6166667,
+      "loop": true,
+      "clipSampleRate": 60.0,
+      "sourceClip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Move.anim",
+      "sourceTimingPreserved": true,
+      "uniquePixelFrames": 19,
+      "duplicateFrameGroups": [],
+      "bodyScale": 0.9826589595375722,
+      "pixelsPerUnit": 100,
+      "pivot": [
+        0.5,
+        0.12239583333333333
+      ],
+      "canvas": [
+        768,
+        768
+      ],
+      "ground": 672,
+      "referenceAnchor": [
+        256.0,
+        450.0
+      ],
+      "helmetWidth": 299,
+      "direction": "left",
+      "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Helmet Slime\\Move.anim",
+      "production": "existing body PNG plus one built-in imagegen helmet; face-tracked rigid overlay; no new video",
+      "unchangedOutsideAccessory": true,
+      "clipReferencesResolve": true,
+      "unityEditorPlaybackVerified": false,
+      "introducedDuplicateFrameGroups": [],
+      "originalSourceDuplicateGroups": []
+    },
+    {
+      "kind": "Attack",
+      "frames": 9,
+      "duration": 0.75,
+      "loop": false,
+      "clipSampleRate": 12.0,
+      "sourceClip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Attack.anim",
+      "sourceTimingPreserved": true,
+      "uniquePixelFrames": 8,
+      "duplicateFrameGroups": [
+        [
+          1,
+          9
+        ]
+      ],
+      "bodyScale": 0.9826589595375722,
+      "pixelsPerUnit": 100,
+      "pivot": [
+        0.5,
+        0.12239583333333333
+      ],
+      "canvas": [
+        768,
+        768
+      ],
+      "ground": 672,
+      "referenceAnchor": [
+        256.0,
+        450.0
+      ],
+      "helmetWidth": 299,
+      "direction": "left",
+      "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Helmet Slime\\Attack.anim",
+      "production": "existing body PNG plus one built-in imagegen helmet; face-tracked rigid overlay; no new video",
+      "unchangedOutsideAccessory": true,
+      "clipReferencesResolve": true,
+      "unityEditorPlaybackVerified": false,
+      "introducedDuplicateFrameGroups": [],
+      "originalSourceDuplicateGroups": [
+        [
+          1,
+          9
+        ]
+      ]
+    },
+    {
+      "kind": "Death",
+      "frames": 32,
+      "duration": 2.6666665,
+      "loop": false,
+      "clipSampleRate": 12.0,
+      "sourceClip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Death.anim",
+      "sourceTimingPreserved": true,
+      "uniquePixelFrames": 32,
+      "duplicateFrameGroups": [],
+      "bodyScale": 0.9826589595375722,
+      "pixelsPerUnit": 100,
+      "pivot": [
+        0.5,
+        0.12239583333333333
+      ],
+      "canvas": [
+        768,
+        768
+      ],
+      "ground": 672,
+      "referenceAnchor": [
+        256.0,
+        450.0
+      ],
+      "helmetWidth": 299,
+      "direction": "left",
+      "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Helmet Slime\\Death.anim",
+      "production": "existing body PNG plus one built-in imagegen helmet; face-tracked rigid overlay; no new video",
+      "unchangedOutsideAccessory": true,
+      "clipReferencesResolve": true,
+      "unityEditorPlaybackVerified": false,
+      "introducedDuplicateFrameGroups": [],
+      "originalSourceDuplicateGroups": []
+    }
+  ]
+}

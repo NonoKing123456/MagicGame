@@ -1,0 +1,380 @@
+{
+  "kind": "Attack",
+  "frames": 9,
+  "duration": 0.75,
+  "loop": false,
+  "clipSampleRate": 12.0,
+  "sourceClip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Slime\\Attack.anim",
+  "sourceTimingPreserved": true,
+  "uniquePixelFrames": 8,
+  "duplicateFrameGroups": [
+    [
+      1,
+      9
+    ]
+  ],
+  "bodyScale": 0.9826589595375722,
+  "pixelsPerUnit": 100,
+  "pivot": [
+    0.5,
+    0.12239583333333333
+  ],
+  "canvas": [
+    768,
+    768
+  ],
+  "ground": 672,
+  "referenceAnchor": [
+    256.0,
+    450.0
+  ],
+  "helmetWidth": 299,
+  "direction": "left",
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Enemies\\Helmet Slime\\Attack.anim",
+  "production": "existing body PNG plus one built-in imagegen helmet; face-tracked rigid overlay; no new video",
+  "unchangedOutsideAccessory": true,
+  "clipReferencesResolve": true,
+  "unityEditorPlaybackVerified": false,
+  "records": [
+    {
+      "time": 0.0,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_01.png",
+      "sourceGuid": "69e5b746563a402d953647c1a003cd22",
+      "sourceSha256": "db0594709729d45f98ac958622b9763ca444100f408f9bd43b6b847dadbb50d6",
+      "bodyBounds": [
+        215,
+        445,
+        554,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        315.62351227706495,
+        539
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        232,
+        386
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        215,
+        387,
+        554,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_01.png",
+      "guid": "edb15ed79f944c83b9689f0da066763c"
+    },
+    {
+      "time": 0.083333333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_02.png",
+      "sourceGuid": "ee7eb416064c44839614e7916e9f90cf",
+      "sourceSha256": "9c9a5d6372ff4e3d5205aa57f1cab51bdeddc244382b77b83100d5114b2b5a06",
+      "bodyBounds": [
+        244,
+        430,
+        560,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        339.00146147528744,
+        534
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        255,
+        381
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        244,
+        382,
+        560,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_02.png",
+      "guid": "75d3f842646a4e80be1aeffdbcd647cc"
+    },
+    {
+      "time": 0.166666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_03.png",
+      "sourceGuid": "bc23634c5e4a469d8e9ad2767471b12a",
+      "sourceSha256": "73f8893071745e3f25ee815b75a9fe38ae53fbb0c6474fb14251aa270a33559f",
+      "bodyBounds": [
+        215,
+        448,
+        575,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        319.89672721360216,
+        541
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        236,
+        388
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        215,
+        389,
+        575,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_03.png",
+      "guid": "a47d8bb3f0d145e18efbda946360dbb8"
+    },
+    {
+      "time": 0.25,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_04.png",
+      "sourceGuid": "3f964598d1fe4e289802b1b4b9d67132",
+      "sourceSha256": "95ffad786d7ca9ec1e3a474bce03ad987906b473f692b7dc60a573785dc2f096",
+      "bodyBounds": [
+        103,
+        484,
+        558,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        216.30938200063275,
+        557
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        133,
+        404
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        103,
+        405,
+        558,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_04.png",
+      "guid": "4ce2d34a27e34270bdac0bc2b4a36ac9"
+    },
+    {
+      "time": 0.333333333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_05.png",
+      "sourceGuid": "623d2a522c80420ea32283308e163964",
+      "sourceSha256": "2f04c4712ccb83d7183802e101c7ebe2ce0e066142e672191c2d99325853a6c1",
+      "bodyBounds": [
+        16,
+        488,
+        507,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        133.50663501010712,
+        558
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        50,
+        405
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        16,
+        406,
+        507,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_05.png",
+      "guid": "d8d0f06dfafe480693da4242be5fc353"
+    },
+    {
+      "time": 0.416666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_06.png",
+      "sourceGuid": "564fd91b653b4d3bb0f225c22eb989e1",
+      "sourceSha256": "341c43283b04c02f441655d4ecceff243ce9ec03ab9ad0424a8171ef3e31c513",
+      "bodyBounds": [
+        51,
+        473,
+        512,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        161.56672343428764,
+        550
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        78,
+        397
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        51,
+        398,
+        512,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_06.png",
+      "guid": "7aba827550dc429c9be82616297de827"
+    },
+    {
+      "time": 0.5,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_07.png",
+      "sourceGuid": "8a08a2909e75403abc11b1107b501b4c",
+      "sourceSha256": "95899918a1401258895ceeca796196d5b39de358df2026894d50e10f01ae277a",
+      "bodyBounds": [
+        105,
+        459,
+        538,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        211.17179487179487,
+        545
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        127,
+        392
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        105,
+        393,
+        538,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_07.png",
+      "guid": "588dfce9803a4657841a321dfea82eb7"
+    },
+    {
+      "time": 0.583333333,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_08.png",
+      "sourceGuid": "4bfa38ee48884896b4aa87e6ffc71ea5",
+      "sourceSha256": "c755b844f3556d915ab933f60ee6fa92dc39233ba0cbf2c3e7eb823c6844f582",
+      "bodyBounds": [
+        156,
+        449,
+        564,
+        673
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        257.59041939510394,
+        541
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        174,
+        388
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        156,
+        389,
+        564,
+        673
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_08.png",
+      "guid": "6da1e6df0c59417490a36d137f1df342"
+    },
+    {
+      "time": 0.666666667,
+      "source": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\ArtSource\\MagicAcademy\\Slime_Attack_Left_v1\\Frames\\Slime_Attack_Left_09.png",
+      "sourceGuid": "f41c45d6dbc84979874fa222c472d461",
+      "sourceSha256": "db0594709729d45f98ac958622b9763ca444100f408f9bd43b6b847dadbb50d6",
+      "bodyBounds": [
+        215,
+        445,
+        554,
+        672
+      ],
+      "bodyTranslation": [
+        7,
+        12
+      ],
+      "faceAnchor": [
+        315.62351227706495,
+        539
+      ],
+      "faceDetected": true,
+      "helmetPosition": [
+        232,
+        386
+      ],
+      "helmetRotation": 0.0,
+      "detach": 0.0,
+      "resultBounds": [
+        215,
+        387,
+        554,
+        672
+      ],
+      "bodyPreservedUnderAccessory": true,
+      "unchangedOutsideAccessory": true,
+      "file": "HelmetSlime_Attack_09.png",
+      "guid": "fa07c1986574486b92067827de38cde2"
+    }
+  ],
+  "introducedDuplicateFrameGroups": [],
+  "originalSourceDuplicateGroups": [
+    [
+      1,
+      9
+    ]
+  ]
+}

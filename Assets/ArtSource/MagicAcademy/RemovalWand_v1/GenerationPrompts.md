@@ -1,0 +1,12 @@
+# Generation prompts
+
+Tool: built-in image_gen; transparent_background=true.
+
+## RemovalWand.png
+
+Use case: stylized-concept. Asset type: isolated transparent PNG removal-tool icon for a magic-academy 2D lane-defense game, serving the gameplay role of the shovel in a lane-defense game. Input images are STYLE REFERENCES only: match their bold very dark navy outlines, chunky simple shapes, limited flat shading, navy blue and warm gold UI accents, whimsical hand-drawn cartoon visual language. Generate ONE standalone removal magic wand, no panel. A short sturdy navy-blue wand handle with simple warm golden grip bands, topped by a clear turquoise/mint crystal shaped like a broad faceted diamond, held by a simple golden collar. A small simple pale eraser-like cut-out marking on the crystal suggests removal, not an attack weapon. Elegant but extremely simple and readable at 64 pixels. Wand diagonal from lower-left handle to upper-right crystal, full silhouette centered with generous transparent margins. One or two flat highlight shapes only, no glow extending outside the object. No hand, character, sparkles, projectile, text, letters, numbers, UI frame, background, cast shadow, 3D rendering, pixel art, realistic texture. Actual transparent alpha background. Square canvas.
+
+## RemovalWandSlot.png
+
+Use case: stylized-concept. Asset type: one isolated empty UI inventory slot, transparent PNG, for the UPPER-RIGHT removal-wand button of a magic-academy 2D lane-defense game. Input images are STYLE REFERENCES only. Match the existing navy-and-gold card bar and mana counter: bold dark navy outline, chunky warm gold border, blue-violet inset, tiny diamond corner accents, simple flat hand-drawn cartoon shading. Generate a single nearly-square rounded rectangular tray viewed straight-on as a flat HUD element, centered on a square transparent canvas with 5 percent outer margin. A sturdy navy frame with restrained gold trim and just two small gold diamond accents at its top corners; large uninterrupted muted slate-blue recessed interior occupying about 75 percent of the square. The interior must be EMPTY and opaque blue so a separately layered diagonal magic wand icon can sit above it and be removed during gameplay. No wand, crystal, icon, silhouettes, badge, label, numbers, text, extra slots, latch, hanging elements, detached decorations, 3D render, ornate filigree, scenery, floor, exterior shadows or glow. Only this one reusable empty square storage-slot panel. True transparent alpha outside its rounded outer silhouette, fully contained.
+

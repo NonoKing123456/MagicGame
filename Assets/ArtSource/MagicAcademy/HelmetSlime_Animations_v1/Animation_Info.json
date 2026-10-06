@@ -1,0 +1,29 @@
+{
+  "ppu": 100,
+  "pivot": [
+    0.5,
+    0.12239583333333333
+  ],
+  "canvas": [
+    768,
+    768
+  ],
+  "ground": 672,
+  "bodyScale": 0.9826589595375722,
+  "sourceAnchorTopLeft": [
+    256.0,
+    450.0
+  ],
+  "referenceBounds": [
+    86,
+    149,
+    426,
+    448
+  ],
+  "helmetWidth": 299,
+  "helmetBandAnchor": [
+    84,
+    135.0
+  ],
+  "neutralBodyHeight": 226.9942196531792
+}

@@ -1,0 +1,430 @@
+{
+  "kind": "attack",
+  "frames": 18,
+  "fps": 12,
+  "duration": 1.5,
+  "loop": false,
+  "sourceVideo": "D:\\WorkSpace\\Arts\\Grok_MagicBook_Attack_v1\\MagicBook_Attack_720p_4s.mp4",
+  "sourceRevision": "v1",
+  "sourceRequestId": "0d659f2e-beb9-975c-8711-bbef6563f054",
+  "sourceInfo": {
+    "width": 960,
+    "height": 960,
+    "fps": 24.0,
+    "frames": 97,
+    "duration": 4.041666666666667,
+    "audioStreams": 0
+  },
+  "canvas": [
+    512,
+    512
+  ],
+  "pixelsPerUnit": 256,
+  "pivot": [
+    0.5,
+    0.4208984375
+  ],
+  "sourceAnchorTopLeft": [
+    256.0,
+    296.5
+  ],
+  "constantScale": 0.7407407407407407,
+  "sourceTimeScale": 1,
+  "firstFrameMapping": [
+    -99,
+    -106
+  ],
+  "anchorPolicy": "book center and baseline stabilized, designed local vertical offsets baked into PNG; common pivot retained",
+  "editorialPolicy": "approved intact real-video frames retimed, partial reverse recovery; no synthetic redraw",
+  "selectedSourceTimes": [
+    0.0,
+    0.0
+  ],
+  "selectedRecords": [
+    {
+      "sourceFrameZeroBased": 0,
+      "sourceTime": 0.0,
+      "sourceBounds": [
+        250,
+        340,
+        709,
+        748
+      ],
+      "boundsAlpha128": [
+        86,
+        145,
+        425,
+        448
+      ],
+      "paste": [
+        -100,
+        -107
+      ],
+      "deliberateLocalY": 0
+    },
+    {
+      "sourceFrameZeroBased": 6,
+      "sourceTime": 0.25,
+      "sourceBounds": [
+        256,
+        314,
+        710,
+        744
+      ],
+      "boundsAlpha128": [
+        87,
+        128,
+        424,
+        446
+      ],
+      "paste": [
+        -102,
+        -105
+      ],
+      "deliberateLocalY": -2
+    },
+    {
+      "sourceFrameZeroBased": 12,
+      "sourceTime": 0.5,
+      "sourceBounds": [
+        256,
+        288,
+        712,
+        730
+      ],
+      "boundsAlpha128": [
+        88,
+        115,
+        425,
+        443
+      ],
+      "paste": [
+        -102,
+        -98
+      ],
+      "deliberateLocalY": -5
+    },
+    {
+      "sourceFrameZeroBased": 18,
+      "sourceTime": 0.75,
+      "sourceBounds": [
+        258,
+        252,
+        714,
+        680
+      ],
+      "boundsAlpha128": [
+        87,
+        122,
+        425,
+        439
+      ],
+      "paste": [
+        -104,
+        -65
+      ],
+      "deliberateLocalY": -9
+    },
+    {
+      "sourceFrameZeroBased": 20,
+      "sourceTime": 0.833333,
+      "sourceBounds": [
+        272,
+        242,
+        700,
+        678
+      ],
+      "boundsAlpha128": [
+        97,
+        113,
+        415,
+        436
+      ],
+      "paste": [
+        -104,
+        -66
+      ],
+      "deliberateLocalY": -12
+    },
+    {
+      "sourceFrameZeroBased": 21,
+      "sourceTime": 0.875,
+      "sourceBounds": [
+        284,
+        236,
+        688,
+        678
+      ],
+      "boundsAlpha128": [
+        106,
+        109,
+        405,
+        436
+      ],
+      "paste": [
+        -104,
+        -66
+      ],
+      "deliberateLocalY": -12
+    },
+    {
+      "sourceFrameZeroBased": 38,
+      "sourceTime": 1.583333,
+      "sourceBounds": [
+        258,
+        210,
+        676,
+        666
+      ],
+      "boundsAlpha128": [
+        101,
+        103,
+        411,
+        441
+      ],
+      "paste": [
+        -90,
+        -52
+      ],
+      "deliberateLocalY": -7
+    },
+    {
+      "sourceFrameZeroBased": 41,
+      "sourceTime": 1.708333,
+      "sourceBounds": [
+        222,
+        174,
+        714,
+        646
+      ],
+      "boundsAlpha128": [
+        74,
+        101,
+        439,
+        450
+      ],
+      "paste": [
+        -90,
+        -28
+      ],
+      "deliberateLocalY": 2
+    },
+    {
+      "sourceFrameZeroBased": 44,
+      "sourceTime": 1.833333,
+      "sourceBounds": [
+        206,
+        152,
+        742,
+        628
+      ],
+      "boundsAlpha128": [
+        58,
+        104,
+        454,
+        457
+      ],
+      "paste": [
+        -95,
+        -8
+      ],
+      "deliberateLocalY": 9
+    },
+    {
+      "sourceFrameZeroBased": 44,
+      "sourceTime": 1.833333,
+      "sourceBounds": [
+        206,
+        152,
+        742,
+        628
+      ],
+      "boundsAlpha128": [
+        58,
+        104,
+        454,
+        457
+      ],
+      "paste": [
+        -95,
+        -8
+      ],
+      "deliberateLocalY": 9
+    },
+    {
+      "sourceFrameZeroBased": 42,
+      "sourceTime": 1.75,
+      "sourceBounds": [
+        219,
+        164,
+        724,
+        640
+      ],
+      "boundsAlpha128": [
+        69,
+        102,
+        443,
+        455
+      ],
+      "paste": [
+        -93,
+        -19
+      ],
+      "deliberateLocalY": 7
+    },
+    {
+      "sourceFrameZeroBased": 40,
+      "sourceTime": 1.666667,
+      "sourceBounds": [
+        231,
+        192,
+        702,
+        655
+      ],
+      "boundsAlpha128": [
+        81,
+        109,
+        430,
+        452
+      ],
+      "paste": [
+        -90,
+        -33
+      ],
+      "deliberateLocalY": 4
+    },
+    {
+      "sourceFrameZeroBased": 38,
+      "sourceTime": 1.583333,
+      "sourceBounds": [
+        258,
+        210,
+        676,
+        666
+      ],
+      "boundsAlpha128": [
+        101,
+        110,
+        411,
+        448
+      ],
+      "paste": [
+        -90,
+        -45
+      ],
+      "deliberateLocalY": 0
+    },
+    {
+      "sourceFrameZeroBased": 21,
+      "sourceTime": 0.875,
+      "sourceBounds": [
+        284,
+        236,
+        688,
+        678
+      ],
+      "boundsAlpha128": [
+        106,
+        119,
+        405,
+        446
+      ],
+      "paste": [
+        -104,
+        -56
+      ],
+      "deliberateLocalY": -2
+    },
+    {
+      "sourceFrameZeroBased": 18,
+      "sourceTime": 0.75,
+      "sourceBounds": [
+        258,
+        252,
+        714,
+        680
+      ],
+      "boundsAlpha128": [
+        87,
+        128,
+        425,
+        445
+      ],
+      "paste": [
+        -104,
+        -59
+      ],
+      "deliberateLocalY": -3
+    },
+    {
+      "sourceFrameZeroBased": 12,
+      "sourceTime": 0.5,
+      "sourceBounds": [
+        256,
+        288,
+        712,
+        730
+      ],
+      "boundsAlpha128": [
+        88,
+        118,
+        425,
+        446
+      ],
+      "paste": [
+        -102,
+        -95
+      ],
+      "deliberateLocalY": -2
+    },
+    {
+      "sourceFrameZeroBased": 6,
+      "sourceTime": 0.25,
+      "sourceBounds": [
+        256,
+        314,
+        710,
+        744
+      ],
+      "boundsAlpha128": [
+        87,
+        129,
+        424,
+        447
+      ],
+      "paste": [
+        -102,
+        -104
+      ],
+      "deliberateLocalY": -1
+    },
+    {
+      "sourceFrameZeroBased": 0,
+      "sourceTime": 0.0,
+      "sourceBounds": [
+        250,
+        340,
+        709,
+        748
+      ],
+      "boundsAlpha128": [
+        86,
+        145,
+        425,
+        448
+      ],
+      "paste": [
+        -100,
+        -107
+      ],
+      "deliberateLocalY": 0
+    }
+  ],
+  "loopCandidates": [],
+  "matte": "foreground support expanded to preserve black contour; green edge despill; no final alpha erosion",
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Characters\\Magic Book\\Attack.anim",
+  "unityEditorPlaybackVerified": false,
+  "warnings": [
+    "Real AI video: slight page/cover shape and perspective drift; recovery may differ from idle."
+  ]
+}

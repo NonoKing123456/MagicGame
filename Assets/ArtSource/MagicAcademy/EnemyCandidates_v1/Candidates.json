@@ -1,0 +1,140 @@
+[
+  {
+    "id": "01",
+    "name": "毒蘑菇小怪",
+    "file": "01_MushroomImp.png",
+    "source": "C:\\Users\\fangy\\.codex\\generated_images\\01a10804-74ea-7ca0-ad4b-d99096d76ede\\exec-918a7b85-0e4e-4fa1-ba0f-094736634d5a.png",
+    "canvas": [
+      512,
+      512
+    ],
+    "sourceCrop": [
+      138,
+      181,
+      1225,
+      1110
+    ],
+    "uniformScale": 0.4047838086476541,
+    "referencePPU": 256,
+    "pivot": [
+      0.5,
+      0.109375
+    ],
+    "role": "candidate reference only; gameplay size not finalized"
+  },
+  {
+    "id": "02",
+    "name": "小蝙蝠恶魔",
+    "file": "02_BatImp.png",
+    "source": "C:\\Users\\fangy\\.codex\\generated_images\\01a10804-74ea-7ca0-ad4b-d99096d76ede\\exec-35657732-5fa4-415f-a0af-29502c6a77d8.png",
+    "canvas": [
+      512,
+      512
+    ],
+    "sourceCrop": [
+      84,
+      236,
+      1194,
+      1077
+    ],
+    "uniformScale": 0.3963963963963964,
+    "referencePPU": 256,
+    "pivot": [
+      0.5,
+      0.109375
+    ],
+    "role": "candidate reference only; gameplay size not finalized"
+  },
+  {
+    "id": "03",
+    "name": "空心铠甲兵",
+    "file": "03_AnimatedArmor.png",
+    "source": "C:\\Users\\fangy\\.codex\\generated_images\\01a10804-74ea-7ca0-ad4b-d99096d76ede\\exec-0623fc20-f8f7-4227-a179-8cc67ef3ea9a.png",
+    "canvas": [
+      512,
+      512
+    ],
+    "sourceCrop": [
+      187,
+      209,
+      1085,
+      1159
+    ],
+    "uniformScale": 0.4631578947368421,
+    "referencePPU": 256,
+    "pivot": [
+      0.5,
+      0.109375
+    ],
+    "role": "candidate reference only; gameplay size not finalized"
+  },
+  {
+    "id": "04",
+    "name": "破布幽灵",
+    "file": "04_TatteredGhost.png",
+    "source": "C:\\Users\\fangy\\.codex\\generated_images\\01a10804-74ea-7ca0-ad4b-d99096d76ede\\exec-8e7aa13f-155e-40bc-8263-422d372057c4.png",
+    "canvas": [
+      512,
+      512
+    ],
+    "sourceCrop": [
+      204,
+      194,
+      1122,
+      1094
+    ],
+    "uniformScale": 0.4793028322440087,
+    "referencePPU": 256,
+    "pivot": [
+      0.5,
+      0.109375
+    ],
+    "role": "candidate reference only; gameplay size not finalized"
+  },
+  {
+    "id": "05",
+    "name": "水晶蜘蛛",
+    "file": "05_CrystalSpider.png",
+    "source": "C:\\Users\\fangy\\.codex\\generated_images\\01a10804-74ea-7ca0-ad4b-d99096d76ede\\exec-1eff301e-88e7-4444-bb00-6a7191cdac74.png",
+    "canvas": [
+      512,
+      512
+    ],
+    "sourceCrop": [
+      84,
+      277,
+      1193,
+      1060
+    ],
+    "uniformScale": 0.39675383228133454,
+    "referencePPU": 256,
+    "pivot": [
+      0.5,
+      0.109375
+    ],
+    "role": "candidate reference only; gameplay size not finalized"
+  },
+  {
+    "id": "06",
+    "name": "宝箱怪",
+    "file": "06_MimicChest.png",
+    "source": "C:\\Users\\fangy\\.codex\\generated_images\\01a10804-74ea-7ca0-ad4b-d99096d76ede\\exec-aab11abd-7a3c-4bc1-a3e7-11aee9fac30f.png",
+    "canvas": [
+      512,
+      512
+    ],
+    "sourceCrop": [
+      141,
+      212,
+      1106,
+      1108
+    ],
+    "uniformScale": 0.45595854922279794,
+    "referencePPU": 256,
+    "pivot": [
+      0.5,
+      0.109375
+    ],
+    "role": "candidate reference only; gameplay size not finalized"
+  }
+]

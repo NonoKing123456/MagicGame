@@ -1,0 +1,9 @@
+{
+  "model": "grok-imagine-video-1.5-lite",
+  "duration": 4,
+  "resolution": "720p",
+  "aspect_ratio": "1:1",
+  "generate_audio": false,
+  "request_id": "418b3129-52ad-9b99-9160-ea901fe74015",
+  "estimated_usd": 0.13
+}

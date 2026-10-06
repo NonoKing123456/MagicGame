@@ -1,0 +1,39 @@
+{
+  "kind": "Idle",
+  "frames": 12,
+  "fps": 12,
+  "duration": 1.0,
+  "pngAndMetaCopiesMatch": true,
+  "clipReferencesResolve": true,
+  "alphaRange": [
+    0,
+    255
+  ],
+  "greenSpillPixelsAboveThreshold": 0,
+  "canvas": [
+    512,
+    512
+  ],
+  "pivot": [
+    0.5,
+    0.4208984375
+  ],
+  "pixelsPerUnit": 256,
+  "firstLastFrameIdentical": false,
+  "uniqueFrameCount": 12,
+  "duplicateFrameGroups": [],
+  "adjacentDuplicateCount": 0,
+  "reusedSourceFrameCount": 0,
+  "sourceFramesStrictlyIncreasing": true,
+  "reversePlayback": false,
+  "widths": [
+    350,
+    350
+  ],
+  "baselineY": [
+    448,
+    448
+  ],
+  "gifDurationMs": 1000,
+  "unityEditorPlaybackVerified": false
+}

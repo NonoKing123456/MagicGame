@@ -1,0 +1,29 @@
+{
+  "canvas": [
+    512,
+    512
+  ],
+  "spritePivot": [
+    0.5,
+    0.5
+  ],
+  "slot": "RemovalWandSlot.png",
+  "wand": "RemovalWand.png",
+  "suggestedUI": {
+    "slotSize": [
+      96,
+      96
+    ],
+    "wandSize": [
+      66,
+      66
+    ],
+    "wandAnchor": [
+      0.5,
+      0.5
+    ]
+  },
+  "background": "true alpha transparency",
+  "generation": "built-in image_gen",
+  "runtimeUIChanged": false
+}

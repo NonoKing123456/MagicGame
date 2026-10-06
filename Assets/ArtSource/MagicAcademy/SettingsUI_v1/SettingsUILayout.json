@@ -1,0 +1,456 @@
+{
+  "assets": {
+    "SettingsPanel": {
+      "canvas": [
+        1280,
+        864
+      ],
+      "recommendedDisplaySize": [
+        768,
+        518.4
+      ],
+      "borderLTRB": [
+        112,
+        192,
+        112,
+        112
+      ],
+      "spriteBorderUnityLBRTop": [
+        112,
+        112,
+        112,
+        192
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "b4ac11675eac440ba89f808e044f24d7",
+      "sourceCrop": [
+        13,
+        62,
+        1435,
+        996
+      ],
+      "uniformScale": 0.8776371308016878,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "ExitButton": {
+      "canvas": [
+        640,
+        160
+      ],
+      "recommendedDisplaySize": [
+        240,
+        60
+      ],
+      "borderLTRB": [
+        110,
+        46,
+        110,
+        46
+      ],
+      "spriteBorderUnityLBRTop": [
+        110,
+        46,
+        110,
+        46
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "a8533b82a74c48168514d88127c3db2a",
+      "sourceCrop": [
+        61,
+        106,
+        2110,
+        582
+      ],
+      "uniformScale": 0.2689075630252101,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "RestartButton": {
+      "canvas": [
+        640,
+        160
+      ],
+      "recommendedDisplaySize": [
+        240,
+        60
+      ],
+      "borderLTRB": [
+        110,
+        46,
+        110,
+        46
+      ],
+      "spriteBorderUnityLBRTop": [
+        110,
+        46,
+        110,
+        46
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "78e8ff5e1ac24961a4608d0dd6bac556",
+      "sourceCrop": [
+        48,
+        131,
+        2122,
+        594
+      ],
+      "uniformScale": 0.27645788336933047,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "SliderTrack": {
+      "canvas": [
+        1024,
+        160
+      ],
+      "recommendedDisplaySize": [
+        440,
+        56
+      ],
+      "borderLTRB": [
+        100,
+        54,
+        100,
+        54
+      ],
+      "spriteBorderUnityLBRTop": [
+        100,
+        54,
+        100,
+        54
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "2e866c87fa6545eba5421c392237ad14",
+      "sourceCrop": [
+        81,
+        219,
+        2082,
+        487
+      ],
+      "uniformScale": 0.47761194029850745,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "SliderFill": {
+      "canvas": [
+        1024,
+        96
+      ],
+      "recommendedDisplaySize": [
+        400,
+        24
+      ],
+      "borderLTRB": [
+        64,
+        32,
+        64,
+        32
+      ],
+      "spriteBorderUnityLBRTop": [
+        64,
+        32,
+        64,
+        32
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "bbd250b07df141978192da7eb662ece1",
+      "sourceCrop": [
+        23,
+        575,
+        1239,
+        671
+      ],
+      "uniformScale": 0.6666666666666666,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "SliderHandle": {
+      "canvas": [
+        256,
+        256
+      ],
+      "recommendedDisplaySize": [
+        48,
+        48
+      ],
+      "borderLTRB": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "spriteBorderUnityLBRTop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "2b89fcf2fb4d41e4a4b534b96dab714e",
+      "sourceCrop": [
+        303,
+        290,
+        967,
+        949
+      ],
+      "uniformScale": 0.3373493975903614,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "CheckboxBox": {
+      "canvas": [
+        256,
+        256
+      ],
+      "recommendedDisplaySize": [
+        48,
+        48
+      ],
+      "borderLTRB": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "spriteBorderUnityLBRTop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "d2fc29f2c3fd47e796a2efe3feb522cc",
+      "sourceCrop": [
+        378,
+        390,
+        876,
+        866
+      ],
+      "uniformScale": 0.4497991967871486,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "CheckboxCheck": {
+      "canvas": [
+        256,
+        256
+      ],
+      "recommendedDisplaySize": [
+        32,
+        32
+      ],
+      "borderLTRB": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "spriteBorderUnityLBRTop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "6d955dd882ec4dfba72be2638685891e",
+      "sourceCrop": [
+        300,
+        303,
+        1032,
+        966
+      ],
+      "uniformScale": 0.30601092896174864,
+      "transparentExterior": true,
+      "textBakedIn": false
+    },
+    "PauseButton": {
+      "canvas": [
+        256,
+        256
+      ],
+      "recommendedDisplaySize": [
+        64,
+        64
+      ],
+      "borderLTRB": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "spriteBorderUnityLBRTop": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "guid": "cd998bbe2ae7498782278a2a312b626a",
+      "sourceCrop": [
+        246,
+        242,
+        1007,
+        988
+      ],
+      "uniformScale": 0.2943495400788436,
+      "transparentExterior": true,
+      "textBakedIn": false
+    }
+  },
+  "panelReferenceSize": [
+    768,
+    518.4
+  ],
+  "coordinates": "RectTransform anchoredPosition, origin at panel center, y upward",
+  "title": {
+    "position": [
+      0,
+      210
+    ],
+    "size": [
+      350,
+      42
+    ]
+  },
+  "musicLabel": {
+    "position": [
+      -205,
+      115
+    ],
+    "size": [
+      130,
+      34
+    ]
+  },
+  "musicSlider": {
+    "position": [
+      55,
+      115
+    ],
+    "size": [
+      440,
+      56
+    ]
+  },
+  "sfxLabel": {
+    "position": [
+      -205,
+      28
+    ],
+    "size": [
+      130,
+      34
+    ]
+  },
+  "sfxSlider": {
+    "position": [
+      55,
+      28
+    ],
+    "size": [
+      440,
+      56
+    ]
+  },
+  "checkbox": {
+    "position": [
+      -223,
+      -68
+    ],
+    "size": [
+      48,
+      48
+    ]
+  },
+  "checkboxLabel": {
+    "position": [
+      12,
+      -68
+    ],
+    "size": [
+      365,
+      40
+    ]
+  },
+  "restartButton": {
+    "position": [
+      -139,
+      -171
+    ],
+    "size": [
+      240,
+      60
+    ]
+  },
+  "exitButton": {
+    "position": [
+      139,
+      -171
+    ],
+    "size": [
+      240,
+      60
+    ]
+  },
+  "pauseAnchor": {
+    "anchor": [
+      1,
+      1
+    ],
+    "pivot": [
+      1,
+      1
+    ],
+    "position": [
+      -24,
+      -24
+    ],
+    "size": [
+      64,
+      64
+    ]
+  },
+  "sliderDirection": "LeftToRight",
+  "sliderRange": [
+    0,
+    1
+  ],
+  "unityEditorPlaybackVerified": false
+}

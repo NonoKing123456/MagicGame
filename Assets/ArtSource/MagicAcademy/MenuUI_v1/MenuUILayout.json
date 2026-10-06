@@ -1,0 +1,483 @@
+{
+  "assets": {
+    "MainMenuPoster": {
+      "canvas": [
+        1920,
+        1080
+      ],
+      "sourceNativeSize": [
+        1672,
+        941
+      ],
+      "sourceCrop": null,
+      "uniformScale": 1.1483253588516746,
+      "backgroundOpaque": true,
+      "spriteMode": "Single",
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "spriteBorderUnity": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "textBakedIn": false,
+      "guid": "319ff448e5b84b0db2b8886eb2fd500e"
+    },
+    "MagicGameLogo": {
+      "canvas": [
+        1600,
+        480
+      ],
+      "sourceNativeSize": [
+        2171,
+        724
+      ],
+      "sourceCrop": [
+        19,
+        123,
+        2152,
+        597
+      ],
+      "uniformScale": 0.7351148616971401,
+      "backgroundOpaque": false,
+      "spriteMode": "Single",
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "spriteBorderUnity": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "textBakedIn": true,
+      "guid": "08b6d3b896644b5eb06e81b899096936"
+    },
+    "ButtonStartGame": {
+      "canvas": [
+        720,
+        180
+      ],
+      "sourceNativeSize": [
+        2169,
+        725
+      ],
+      "sourceCrop": [
+        92,
+        128,
+        2077,
+        568
+      ],
+      "uniformScale": 0.33636363636363636,
+      "backgroundOpaque": false,
+      "spriteMode": "Single",
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "spriteBorderUnity": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "textBakedIn": false,
+      "guid": "08ee298889b14446bae6aa72b4e02d2c"
+    },
+    "ButtonSelectLevel": {
+      "canvas": [
+        720,
+        180
+      ],
+      "sourceNativeSize": [
+        2170,
+        725
+      ],
+      "sourceCrop": [
+        61,
+        106,
+        2108,
+        561
+      ],
+      "uniformScale": 0.3252747252747253,
+      "backgroundOpaque": false,
+      "spriteMode": "Single",
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "spriteBorderUnity": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "textBakedIn": false,
+      "guid": "1af0087f03c04bbea0683924ec423abb"
+    },
+    "ButtonGameSettings": {
+      "canvas": [
+        720,
+        180
+      ],
+      "sourceNativeSize": [
+        2169,
+        725
+      ],
+      "sourceCrop": [
+        103,
+        132,
+        2066,
+        557
+      ],
+      "uniformScale": 0.34823529411764703,
+      "backgroundOpaque": false,
+      "spriteMode": "Single",
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "spriteBorderUnity": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "textBakedIn": false,
+      "guid": "d65f0f95db9e4550b97052bb1a0a738d"
+    },
+    "LevelSelectPanel": {
+      "canvas": [
+        1600,
+        1000
+      ],
+      "sourceNativeSize": [
+        1586,
+        992
+      ],
+      "sourceCrop": [
+        9,
+        21,
+        1579,
+        960
+      ],
+      "uniformScale": 0.9987261146496815,
+      "backgroundOpaque": false,
+      "spriteMode": "Single",
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "spriteBorderUnity": [
+        96,
+        96,
+        96,
+        164
+      ],
+      "textBakedIn": false,
+      "guid": "f28ae04114ab47408b660e41a9712575"
+    },
+    "LevelButtonTemplate": {
+      "canvas": [
+        512,
+        512
+      ],
+      "sourceNativeSize": [
+        1254,
+        1254
+      ],
+      "sourceCrop": [
+        103,
+        122,
+        1150,
+        1104
+      ],
+      "uniformScale": 0.4584527220630373,
+      "backgroundOpaque": false,
+      "spriteMode": "Single",
+      "ppu": 400,
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "spriteBorderUnity": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "textBakedIn": false,
+      "guid": "bc4565eec5734c9692142af54b89648e"
+    }
+  },
+  "mainMenu": {
+    "referenceCanvas": [
+      1920,
+      1080
+    ],
+    "coordinates": "image top-left pixel coordinates",
+    "poster": {
+      "center": [
+        960,
+        540
+      ],
+      "size": [
+        1920,
+        1080
+      ]
+    },
+    "logo": {
+      "center": [
+        960,
+        200
+      ],
+      "size": [
+        960,
+        288
+      ]
+    },
+    "buttons": [
+      {
+        "asset": "ButtonStartGame",
+        "label": "开始游戏",
+        "center": [
+          960,
+          600
+        ],
+        "size": [
+          480,
+          120
+        ],
+        "textCenter": [
+          1000,
+          600
+        ],
+        "textSize": [
+          280,
+          64
+        ]
+      },
+      {
+        "asset": "ButtonSelectLevel",
+        "label": "选择关卡",
+        "center": [
+          960,
+          750
+        ],
+        "size": [
+          480,
+          120
+        ],
+        "textCenter": [
+          1000,
+          750
+        ],
+        "textSize": [
+          280,
+          64
+        ]
+      },
+      {
+        "asset": "ButtonGameSettings",
+        "label": "游戏设置",
+        "center": [
+          960,
+          900
+        ],
+        "size": [
+          480,
+          120
+        ],
+        "textCenter": [
+          1000,
+          900
+        ],
+        "textSize": [
+          280,
+          64
+        ]
+      }
+    ],
+    "imageType": "Simple; Preserve Aspect",
+    "functionalCallbacksIncluded": false
+  },
+  "levelSelection": {
+    "referenceCanvas": [
+      1920,
+      1080
+    ],
+    "coordinates": "image top-left pixel coordinates",
+    "panelCenter": [
+      960,
+      570
+    ],
+    "panelDisplaySize": [
+      1280,
+      800
+    ],
+    "titleCenter": [
+      960,
+      246
+    ],
+    "titleText": "选择关卡",
+    "columns": 4,
+    "rows": 3,
+    "tileSize": [
+      176,
+      176
+    ],
+    "spacing": [
+      214,
+      200
+    ],
+    "tiles": [
+      {
+        "previewNumber": 1,
+        "center": [
+          639,
+          390
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 2,
+        "center": [
+          853,
+          390
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 3,
+        "center": [
+          1067,
+          390
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 4,
+        "center": [
+          1281,
+          390
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 5,
+        "center": [
+          639,
+          590
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 6,
+        "center": [
+          853,
+          590
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 7,
+        "center": [
+          1067,
+          590
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 8,
+        "center": [
+          1281,
+          590
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 9,
+        "center": [
+          639,
+          790
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 10,
+        "center": [
+          853,
+          790
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 11,
+        "center": [
+          1067,
+          790
+        ],
+        "size": [
+          176,
+          176
+        ]
+      },
+      {
+        "previewNumber": 12,
+        "center": [
+          1281,
+          790
+        ],
+        "size": [
+          176,
+          176
+        ]
+      }
+    ],
+    "numbersBakedIn": false,
+    "gridBakedIn": false,
+    "sceneJumpLogicIncluded": false,
+    "templateImageType": "Simple; Preserve Aspect"
+  },
+  "unityEditorImportVerified": false
+}

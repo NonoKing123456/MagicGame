@@ -1,0 +1,320 @@
+{
+  "kind": "idle",
+  "revision": "v2",
+  "frames": 12,
+  "uniqueFrames": 12,
+  "duplicateFrameGroups": [],
+  "reusedSourceFrameCount": 0,
+  "reversePlayback": false,
+  "fps": 12,
+  "duration": 1.0,
+  "loop": true,
+  "canvas": [
+    512,
+    512
+  ],
+  "pixelsPerUnit": 256,
+  "pivot": [
+    0.5,
+    0.4208984375
+  ],
+  "constantScale": 0.5704697986577181,
+  "sourceVideo": "D:\\WorkSpace\\Arts\\Grok_MagicBook_Idle_v3\\MagicBook_Idle_720p_4s.mp4",
+  "sourceRequestId": "e85f0f1b-9517-9546-b9dc-b842dfb2ff69",
+  "sourceInfo": {
+    "width": 960,
+    "height": 960,
+    "fps": 24.0,
+    "frames": 97,
+    "duration": 4.041666666666667,
+    "audioStreams": 0
+  },
+  "sourceRevision": "v3",
+  "selectedRecords": [
+    {
+      "sourceFrameZeroBased": 18,
+      "sourceTime": 0.75,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        144,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 20,
+      "sourceTime": 0.8333333333333334,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        142,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 22,
+      "sourceTime": 0.9166666666666666,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        141,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 24,
+      "sourceTime": 1.0,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        139,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 26,
+      "sourceTime": 1.0833333333333333,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        140,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 28,
+      "sourceTime": 1.1666666666666667,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        142,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 30,
+      "sourceTime": 1.25,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        142,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 32,
+      "sourceTime": 1.3333333333333333,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        140,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 34,
+      "sourceTime": 1.4166666666666667,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        140,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 36,
+      "sourceTime": 1.5,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        145,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 38,
+      "sourceTime": 1.5833333333333333,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        143,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    },
+    {
+      "sourceFrameZeroBased": 40,
+      "sourceTime": 1.6666666666666667,
+      "deliberateLocalY": 0,
+      "boundsAlpha128": [
+        81,
+        140,
+        431,
+        448
+      ],
+      "paste": [
+        -18,
+        -8
+      ]
+    }
+  ],
+  "loopCandidates": [
+    {
+      "start": 9,
+      "length": 12,
+      "nextPhase": 21,
+      "appearanceError": 16.14748155731264,
+      "tangentError": 11.280630127022185,
+      "score": 18.40360758271708,
+      "widthRange": [
+        350,
+        350
+      ]
+    },
+    {
+      "start": 8,
+      "length": 12,
+      "nextPhase": 20,
+      "appearanceError": 18.324073452171458,
+      "tangentError": 13.725386761235669,
+      "score": 21.06915080441859,
+      "widthRange": [
+        350,
+        350
+      ]
+    },
+    {
+      "start": 7,
+      "length": 12,
+      "nextPhase": 19,
+      "appearanceError": 19.60969297598117,
+      "tangentError": 18.82794486720082,
+      "score": 23.375281949421332,
+      "widthRange": [
+        349,
+        350
+      ]
+    },
+    {
+      "start": 8,
+      "length": 13,
+      "nextPhase": 21,
+      "appearanceError": 20.638624433706497,
+      "tangentError": 14.806533729128672,
+      "score": 23.59993117953223,
+      "widthRange": [
+        350,
+        350
+      ]
+    },
+    {
+      "start": 7,
+      "length": 13,
+      "nextPhase": 20,
+      "appearanceError": 21.20587698950107,
+      "tangentError": 17.18485833813808,
+      "score": 24.642848657128688,
+      "widthRange": [
+        349,
+        350
+      ]
+    },
+    {
+      "start": 7,
+      "length": 14,
+      "nextPhase": 21,
+      "appearanceError": 21.91225957049486,
+      "tangentError": 15.702988751055978,
+      "score": 25.052857320706057,
+      "widthRange": [
+        349,
+        350
+      ]
+    },
+    {
+      "start": 6,
+      "length": 12,
+      "nextPhase": 18,
+      "appearanceError": 22.3675161327546,
+      "tangentError": 21.128067220550513,
+      "score": 26.5931295768647,
+      "widthRange": [
+        348,
+        350
+      ]
+    },
+    {
+      "start": 6,
+      "length": 15,
+      "nextPhase": 21,
+      "appearanceError": 23.54652042056886,
+      "tangentError": 16.06973899257636,
+      "score": 26.76046821908413,
+      "widthRange": [
+        348,
+        350
+      ]
+    }
+  ],
+  "clip": "D:\\WorkSpace\\Unity\\2D Top-Down Shoot\\Assets\\Animations\\Characters\\Magic Book\\Idle.anim",
+  "unityEditorPlaybackVerified": false,
+  "attackEndsAtOpenPose": false,
+  "editorialPolicy": "unique source frames in strictly increasing order; no holds or reverse recovery",
+  "warnings": [
+    "AI page and perspective drift remain; idle loop phase may vary slightly."
+  ]
+}
