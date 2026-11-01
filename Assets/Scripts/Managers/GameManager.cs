@@ -135,6 +135,7 @@ public class GameManager : MonoBehaviour
         if (GameSession.Instance.selectedLevel >= levelCatalog.levelData.Length)
         {
             SceneManager.LoadScene("ThanksScene");
+            return;
         }
         ChangeState(GameState.Ready);
     }
